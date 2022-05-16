@@ -1,0 +1,7 @@
+[submodule "repo/plugin.video.ted.talks"]
+	path = repo/plugin.video.ted.talks
+	url = https://github.com/Kevwag-Kodi-Addons/plugin.video.ted.talks
+	branch = feature/matrix
+[submodule "repo/skin.estuary.nexus.kevwag.mod"]
+	path = repo/skin.estuary.nexus.kevwag.mod
+	url = https://github.com/Kevwag-Kodi-Addons/skin.estuary.nexus.kevwag.mod
