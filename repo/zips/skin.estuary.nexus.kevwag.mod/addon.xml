@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.estuary.nexus.kevwag.mod" version="1.0.2" name="Estuary Nexus Mod (Kevwag)" provider-name="Kevwag">
+<addon id="skin.estuary.nexus.kevwag.mod" version="1.0.3" name="Estuary Nexus Mod (Kevwag)" provider-name="Kevwag">
 	<requires>
 		<import addon="xbmc.gui" version="5.15.0"/>
 	</requires>
