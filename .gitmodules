@@ -10,3 +10,6 @@
 	path = repo/skin.estuary.nexus.kevwag.mod
 	url = https://github.com/Kevwag-Kodi-Addons/skin.estuary.nexus.kevwag.mod
 	branch = master
+[submodule "repo/plugin.video.realizer"]
+	path = repo/plugin.video.realizer
+	url = https://github.com/Kevwag-Kodi-Addons/plugin.video.realizer
