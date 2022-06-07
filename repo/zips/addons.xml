@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="kevwag.github.io" name="Kevwag's Kodi Addons" version="1.0.10" provider-name="kevwag">
+    <extension point="xbmc.addon.repository" name="Kevwag's Kodi Addons">
+        <dir minversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/kevwag/kevwag.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/kevwag/kevwag.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/kevwag/kevwag.github.io/master/repo/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/</datadir>
+        </dir>
+        <dir minversion="18.0" maxversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/</datadir>
+        </dir>
+        <dir minversion="18.0" maxversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/Dis90/repository.dis90/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Dis90/repository.dis90/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Dis90/repository.dis90/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Kevwag's Kodi Addons</summary>
+        <description>Kevwag's Addons for Kodi Matrix and Kodi Nexus</description>
+        <disclaimer />
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon><addon id="plugin.video.discoveryplus" version="1.6.22+matrix.1" name="discovery+" provider-name="Dis90">
+<requires>
+  <import addon="xbmc.python" version="3.0.0" />
+  <import addon="script.module.requests" version="2.9.1" />
+  <import addon="script.module.inputstreamhelper" version="0.2.4" />
+  <import addon="inputstream.adaptive" version="2.6.1" />
+  <import addon="script.module.routing" version="0.2.0" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.service" library="services.py" />
+<extension point="xbmc.addon.metadata">
+  <reuselanguageinvoker>true</reuselanguageinvoker>
+  <summary lang="en">discovery+</summary>
+  <description lang="en" />
+  <disclaimer lang="en" />
+  <assets>
+    <icon>resources/icon.png</icon> 
+    <fanart>resources/fanart.png</fanart>
+  </assets>
+  <news>
+    v1.6.22+matrix.1 (29.5.2022)
+    - Profiles and PIN code login for d+ India
+    - Other minor changes
+    v1.6.21+matrix.1 (28.4.2022)
+    - New profiles dialog
+    - PIN code login now checks code every 5 seconds (previously 10 sec)
+    - Age limit for profile is shown on profiles dialog if kids profile
+    - Other minor fixes
+    v1.6.20+matrix.1 (23.4.2022)
+    - Debug logging userdata and token request is now disabled
+    v1.6.19+matrix.1 (15.4.2022)
+    - Properly fixed PIN login
+    v1.6.18+matrix.1 (15.4.2022)
+    - Hotfix for PIN login
+    v1.6.17+matrix.1 (15.4.2022)
+    - Implement login with PIN code
+    - Other minor fixes and changes
+    v1.6.16+matrix.1 (21.2.2022)
+    - Cache is no longer used in seasons page when sync playback and season markers is turned on. Fixes updating watched status of the season when going back from episodes listing.
+    - Up Next now only recommends to watch episodes from same TV show
+    - Minor fixes
+    v1.6.15+matrix.1 (16.2.2022)
+    - Added setting for showing watched season markers (default is off). Can slown down listing seasons page.
+    - Code improvements
+    v1.6.14+matrix.1 (10.2.2022)
+    - Code improvements
+    - You can now also mark seasons as watched or unwatched
+    - Dutch translation (thanks to djdirty60)
+    - If you are using IPTV Manager you need to refresh channels from IPTV Manager settings also 
+      if you are using Kodi favorites you need to re-add them after this update because of changes made to add-on internal urls
+    v1.6.13+matrix.1 (4.2.2022)
+    - You can now mark videos as watched or unwatched
+    - Minor fixes
+    v1.6.12+matrix.1 (1.2.2022)
+    - Fix sport genre artwork
+    - Add Home -&gt; For You -&gt; Continue Watching (US and EU)
+    - Change video aired date from airDate to earliestPlayableStart
+    - Code cleanup
+    - Other minor fixes
+    v1.6.11+matrix.1 (22.1.2022)
+    - Minor fixes
+    v1.6.10+matrix.1 (21.1.2022)
+    - Minor fixes
+    v1.6.9+matrix.1 (8.1.2022)
+    - Fix empty channels (IPTV Manager integration)
+    - Add reuselanguageinvoker to addon.xml (possible speed up for loading data)
+    v1.6.8+matrix.1 (23.12.2021)
+    - Enable or disable DRM from settings
+    v1.6.7+matrix.1 (19.12.2021)
+    - Playback progress updating is now blocked only for Live TV
+    - Fix realmservice on Kodi 18
+    v1.6.6+matrix.1 (19.12.2021)
+    - Fixes to realmservice in case folder or file is missing
+    v1.6.5+matrix.1 (18.12.2021)
+    - Fix channel pages with only livestream
+    - Country specific content rating system (mpaa)
+    - Rename favorites to My List (context menu add/remove from My List)
+    - Get country specific configs from discovery+ realm service. No more hard coded values (except d+ India)
+    - Fix for listing shows without seasons when seasonsonly setting is set to true
+    - Home -&gt; For You -&gt; Networks or Network Rail is now translated to Channels
+    v1.6.4+matrix.1 (15.12.2021)
+    - More fixes and improvements to EPG data (European countries)
+    - Option to set cookie in add-on settings
+    v1.6.3+matrix.1 (14.12.2021)
+    - Fix listing Shows page (UK)
+    v1.6.2+matrix.1 (14.12.2021)
+    - Support for switching profile (US and EU)
+    - Fix EPG for sport events (European countries)
+    v1.6.1+matrix.1 (14.12.2021)
+    - Fix IPTV Manager EPG (European countries)
+    v1.6.0+matrix.1 (13.12.2021)
+    - Support for new API in European countries. You need to get new cookies from browser.
+    - Updated player properties to same in all countries.
+    v1.5.24+matrix.1 (14.9.2021)
+    - Fixed season list when data contains empty collection
+    v1.5.23+matrix.1 (19.8.2021)
+    - New setting for only listing seasons in season listing (EU countries)
+    - If setting for hiding non season categories from seasons page is enabled, you can enable setting for flatten TV show seasons if only one season (EU countries)
+    v1.5.22+matrix.1 (14.8.2021)
+    - Promoted items are now displayed (rows with large banner but no title) - European countries
+    v1.5.21+matrix.1 (26.7.2021)
+    - Fixed season list displaying wrong metadata in some European countries 
+  </news>
+</extension>
+</addon><addon id="plugin.video.realizer" version="1.0.3" name="Realizer" provider-name="Kevwag">
+    <requires>
+        <import addon="script.module.six" />
+        <import addon="script.module.beautifulsoup4" />
+        <import addon="script.module.metalibrary" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.feedparser" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <description>Realdebrid Cloud Addon with a twist!
+        This addon is inteded for use with content that you currently own! The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.    
+        </description>
+        <summary lang="en">Real-Debrid Cloud Addon</summary>
+        <platform>all</platform>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon><addon id="plugin.video.ted.talks" name="TED Talks" version="5.0.1" provider-name="moreginger, rwparris2, kevwag, kodaksmith">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0" />
+    <import addon="script.module.requests" version="2.22.0" />
+    <import addon="script.module.html5lib" version="1.0.1+matrix.2" />
+    <import addon="script.module.m3u8" version="0.5.4+matrix.2" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    
+    <language>en</language>
+    <summary lang="en_GB">Watch talks from TED.com, a site dedicated to 'Ideas Worth Spreading'</summary>
+    <summary lang="hu_HU">Beszédek megtekintése a TED.com-ról</summary>
+    <summary lang="pt_PT">Veja debates de TED.com, um site dedicado a 'Ideias com Valor'</summary>
+    <description lang="en_GB">TED is a nonprofit devoted to spreading ideas, usually in the form of short, powerful talks (18 minutes or less). TED began in 1984 as a conference where Technology, Entertainment and Design converged, and today covers almost all topics — from science to business to global issues — in more than 100 languages. Meanwhile, independently run TEDx events help share ideas in communities around the world.</description>
+    <description lang="hu_HU">TED egy kicsi non-profit szervezet aminek célpontjában az Ötlet áll amit érdemes megosztani. A webhely kezdete 1984-re nyúlik vissza egy konferenciára ami 3 külön világot hozott össze: Technológia, Szórakozás, Tervezés. Azóta a kör csak bővült.</description>
+    <description lang="pt_PT">TED é uma organização sem fins lucrativos dedicada a 'Ideias com Valor'. Foi iniciada em 1984 como uma conferência que pretendia juntar pessoas de três mundos: Tecnologia, Entretenimento e Design. Desde ai tornou-se muito mais abrangente.</description>
+    <platform>all</platform>
+    <license>GPL-2.0-or-later</license>
+    <news>
+v5.0.1
+- Requires Kodi 19.x (Matrix) or Kodi 20.x (Nexus)
+- Playback uses m3u8, which respects the global bandwidth setting
+    </news>
+    <forum>https://forum.kodi.tv/showthread.php?tid=36866</forum>
+    <website>https://github.com/moreginger/xbmc-plugin.video.ted.talks</website>
+    <source>https://github.com/moreginger/xbmc-plugin.video.ted.talks</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon><addon id="repository.dis90" name="Dis90 add-on repository" version="1.0.1" provider-name="Dis90">
+    <extension point="xbmc.addon.repository" name="Example Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Dis90 Repository for Kodi 19</summary>
+        <description>Dis90 Repository for Kodi 19 add-ons</description>
+        <disclaimer />
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon><addon id="script.hideosd" version="1.0.0" name="Hide Video OSD" provider-name="Kevwag">
+	<requires>
+		<import addon="xbmc.python" version="3.00.0" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<description>Autohide video osd after defined period of inactivity. Timeout can be set in the addon settings</description>
+		<summary lang="en">Autohide Video OSD</summary>
+		<platform>all</platform>
+		<license>GPL-3.0-only</license>
+		<forum>-</forum>
+		<website>https://github.com/Kevwag-Kodi-Addons/script.hideosd</website>
+		<source>https://github.com/Kevwag-Kodi-Addons/script.hideosd</source>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+		<news>
+v1.0.0
+-Rebuilt for Kodi 20.x (Nexus)
+		</news>
+	</extension>
+</addon><addon id="script.module.metahandler" name="metahandler" version="5.0.1" provider-name="Eldorado">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0" />
+		<import addon="script.module.six" version="1.14.0+matrix.2" />
+		<import addon="script.module.simplejson" version="3.17.0+matrix.2" />
+		<import addon="script.module.myconnpy" version="8.0.18+matrix.1" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.python.pluginsource" library="lib/default.py" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Downloads Artwork for TV shows, Movies and Music videos for addons and stores them in a local SQLITE database</summary>
+		<description lang="en">Queries, stores, and returns metadata for TV shows, Movies and Musicvideos. [CR]Sources:[CR]www.thetvdb.com[CR]www.themoviedb.org[CR]www.imdb.com[CR]www.omdbapi.com[CR]This product uses the TMDb API but is not endorsed or certified by TMDb.</description>
+		<disclaimer lang="en" />
+		<language />
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<forum />
+		<website />
+		<email />
+		<source />
+		<assets>
+			<icon>icon.png</icon>
+			<fanart />
+			<screenshot />
+		</assets>
+		<news>
+[B]Version 5.0.1[/B]
+- Fixed settings.xml version preventing setting UI from showing in Kodiunder Matrix
+		</news>
+	</extension>
+</addon><addon id="skin.estuary.nexus.kevwag.mod" version="1.0.4" name="Estuary Nexus Mod (Kevwag)" provider-name="Kevwag">
+	<requires>
+		<import addon="xbmc.gui" version="5.15.0" />
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false">
+		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
+		<res width="1920" height="1280" aspect="3:2" default="false" folder="xml" />
+		<res width="1920" height="1200" aspect="16:10" default="false" folder="xml" />
+		<res width="2040" height="1080" aspect="17:9" default="false" folder="xml" />
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
+		<res width="2560" height="1080" aspect="21:9" default="false" folder="xml" />
+		<res width="2338" height="1080" aspect="19.5:9" default="false" folder="xml" />
+		<res width="2160" height="1080" aspect="18:9" default="false" folder="xml" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+	<summary lang="en_GB">Kevwag's mod to the Estuary skin by phil65.</summary>
+		<description lang="en_GB">Various mods to Estuary, including the ability to customize home screen and home screen widgets.</description>
+		<disclaimer lang="en_GB">This mod is stolen and copletely unsupported.</disclaimer>
+		<platform>all</platform>
+		<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-20170506-01.jpg</screenshot>
+			<screenshot>resources/screenshot-20170506-02.jpg</screenshot>
+			<screenshot>resources/screenshot-20170506-03.jpg</screenshot>
+			<screenshot>resources/screenshot-20170506-04.jpg</screenshot>
+			<screenshot>resources/screenshot-20170506-05.jpg</screenshot>
+		</assets>
+	</extension>
+</addon></addons>
