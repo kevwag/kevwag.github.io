@@ -21,6 +21,3 @@
 	path = repo/script.module.metahandler
 	url = https://github.com/Kevwag-Kodi-Addons/script.module.metahandler
 	branch = master
-[submodule "repo/dis90.github.io"]
-	path = repo/dis90.github.io
-	url = https://github.com/dis90/dis90.github.io
