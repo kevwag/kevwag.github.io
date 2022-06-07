@@ -23,5 +23,9 @@
 	branch = master
 [submodule "repo/dis90.github.io"]
 	path = repo/dis90.github.io
-	url = https://github.com/dis90/dis90.github.io
+	url = https://github.com/dis90/dis90.github.io/
 	branch = matrix
+[submodule "repo/repository.dis90"]
+	path = repo/repository.dis90
+	url= = https://github.com/dis90/dis90.github.io/repository.dis90
+	brach= matrix
