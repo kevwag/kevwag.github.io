@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="kevwag.github.io" name="Kevwag's Kodi Addons" version="1.0.14" provider-name="kevwag">
+<addons><addon id="kevwag.github.io" name="Kevwag's Kodi Addons" version="1.0.15" provider-name="kevwag">
     <extension point="xbmc.addon.repository" name="Kevwag's Kodi Addons">
         <dir minversion="18.9.0">
             <info compressed="false">https://raw.githubusercontent.com/kevwag/kevwag.github.io/master/repo/zips/addons.xml</info>
@@ -7,17 +7,10 @@
             <datadir zip="true">https://raw.githubusercontent.com/kevwag/kevwag.github.io/master/repo/zips/</datadir>
 		    <hashes>md5</hashes>
         </dir>
-        <dir minversion="18.9.0">
+        <dir>
             <info compressed="false">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/</datadir>
-		    <hashes>md5</hashes>
-        </dir>
-        <dir minversion="18.0" maxversion="18.9.0">
-            <info compressed="false">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/</datadir>
-		    <hashes>md5</hashes>
         </dir>
         <dir minversion="18.9.0">
             <info compressed="false">https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/addons.xml</info>
@@ -35,12 +28,7 @@
 		    <datadir zip="true">https://raw.github.com/Catch-up-TV-and-More/repository.catchuptvandmore/master/zips/beta</datadir>
 		    <hashes>md5</hashes>
         </dir>
-		<dir minversion="18.0" maxversion="18.9.0">
-            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/</datadir>
-        </dir>
-        <dir minversion="18.9.0">
+        <dir>
             <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/</datadir>
@@ -50,16 +38,6 @@
 		    <checksum>https://raw.githubusercontent.com/anontester/kodi-repo/master/addons.xml.gz.md5</checksum>
 		    <datadir zip="true">https://raw.githubusercontent.com/anontester/kodi-repo/master/</datadir>
 		    <hashes>md5</hashes>
-        </dir>
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-        </dir>
-        <dir>
-            <info compressed="false">https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml</info>
-            <checksum>https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.github.com/Gujal00/GujalKodiWork/master/zips/</datadir>
         </dir>
         <dir minversion="16.0.0" maxversion="18.9.9">
             <info compressed="false">https://raw.githubusercontent.com/thecrewwh/zips/master/_zip/addons.xml</info>
@@ -90,11 +68,6 @@
             <info compressed="false">https://henryjfry.github.io/repository.thenewdiamond/zips/addons.xml</info>
             <checksum>https://henryjfry.github.io/repository.thenewdiamond/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://henryjfry.github.io/repository.thenewdiamond/zips/</datadir>
-        </dir>
-        <dir>
-            <info compressed="false">https://magnetic.website/__zips/addons.xml</info>
-            <checksum>https://magnetic.website/__zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://magnetic.website/__zips/</datadir>
         </dir>
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
