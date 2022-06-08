@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="kevwag.github.io" name="Kevwag's Kodi Addons" version="1.0.11" provider-name="kevwag">
+    <extension point="xbmc.addon.repository" name="Kevwag's Kodi Addons">
+        <dir minversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/kevwag/kevwag.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/kevwag/kevwag.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/kevwag/kevwag.github.io/master/repo/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/matrix/zips/</datadir>
+        </dir>
+        <dir minversion="18.0" maxversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/leia/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/</datadir>
+        </dir>
+        <dir minversion="18.0" maxversion="18.9.0">
+            <info compressed="false">https://raw.githubusercontent.com/Dis90/repository.dis90/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Dis90/repository.dis90/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Dis90/repository.dis90/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Kevwag's Kodi Addons</summary>
+        <description>Kevwag's Addons for Kodi Matrix and Kodi Nexus</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
