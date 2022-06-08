@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="kevwag.github.io" name="Kevwag's Kodi Addons" version="1.0.10" provider-name="kevwag">
+<addon id="kevwag.github.io" name="Kevwag's Kodi Addons" version="1.0.11" provider-name="kevwag">
     <extension point="xbmc.addon.repository" name="Kevwag's Kodi Addons">
         <dir minversion="18.9.0">
             <info compressed="false">https://raw.githubusercontent.com/kevwag/kevwag.github.io/master/repo/zips/addons.xml</info>
