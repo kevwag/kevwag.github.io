@@ -11,6 +11,7 @@ A Repo containing my own addons plus all the other repos that I use to set up my
 - Dis90's Repo (Discovery+)
 - Gujal00 (ResolveURL)
 - Jurialmunkey's Repo
+- KodiNerds Repo
 - Magnetic Repo
 - Marcelveldt's Beta Repo
 - MetalChris's Repo
