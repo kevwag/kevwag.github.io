@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="kevwag.github.io" name="Kevwag's Kodi Addons" version="1.0.16" provider-name="kevwag">
+<addons><addon id="kevwag.github.io" name="Kevwag's Kodi Addons" version="1.0.17" provider-name="kevwag">
     <extension point="xbmc.addon.repository" name="Kevwag's Kodi Addons">
         <dir minversion="18.9.0">
             <info compressed="false">https://raw.githubusercontent.com/kevwag/kevwag.github.io/master/repo/zips/addons.xml</info>
@@ -7,7 +7,13 @@
             <datadir zip="true">https://raw.githubusercontent.com/kevwag/kevwag.github.io/master/repo/zips/</datadir>
 		    <hashes>md5</hashes>
         </dir>
-       <dir minversion="19.9.9">
+        <dir>
+            <info compressed="true">https://repo.kodinerds.net/addons/addons.xml</info>
+            <checksum>https://repo.kodinerds.net/addons/addons.xml.md5</checksum>
+            <datadir zip="true">https://repo.kodinerds.net/addons</datadir>
+            <hashes>false</hashes>
+        </dir>
+        <dir minversion="19.9.9">
             <info compressed="true">https://repo.kodinerds.net/addons/nexus/addons.xml</info>
             <checksum>https://repo.kodinerds.net/addons/nexus/addons.xml.md5</checksum>
             <datadir zip="true">https://repo.kodinerds.net/addons/nexus/zip/</datadir>
