@@ -2,10 +2,6 @@
 	branch = master
 [submodule "plugin.video.ted.talks"]
 	branch = master
-[submodule "repo/plugin.video.ted.talks"]
-	path = repo/plugin.video.ted.talks
-	url = https://github.com/Kevwag-Kodi-Addons/plugin.video.ted.talks
-	branch = feature/matrix
 [submodule "repo/skin.estuary.nexus.kevwag.mod"]
 	path = repo/skin.estuary.nexus.kevwag.mod
 	url = https://github.com/Kevwag-Kodi-Addons/skin.estuary.nexus.kevwag.mod
@@ -13,11 +9,14 @@
 [submodule "repo/plugin.video.realizer"]
 	path = repo/plugin.video.realizer
 	url = https://github.com/Kevwag-Kodi-Addons/plugin.video.realizer
-[submodule "repo/script.hideosd"]
-	path = repo/script.hideosd
-	url = https://github.com/Kevwag-Kodi-Addons/script.hideosd
-	branch = master
 [submodule "repo/script.module.metahandler"]
 	path = repo/script.module.metahandler
 	url = https://github.com/Kevwag-Kodi-Addons/script.module.metahandler
 	branch = master
+[submodule "repo/plugin.video.ted.talks"]
+	path = repo/plugin.video.ted.talks
+	url = https://github.com/kevwag/plugin.video.ted.talks.git
+	branch = feature/matrix
+[submodule "repo/script.hideosd"]
+	path = repo/script.hideosd
+	url = https://github.com/kevwag/script.hideosd.git
