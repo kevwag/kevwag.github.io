@@ -1,0 +1,148 @@
+#EXTM3U
+
+#EXTINF:-1 catchup="vod" tvg-chno="1" tvg-id="BBC One South" tvg-name="BBC One South" tvg-logo="http://192.168.1.105/tv/logos/BBC_ONE_South.png" group-title="BBC", BBC One South
+plugin://plugin.video.iplayerwww/?url=bbc_one_south&mode=203&name=BBC+One
+
+#EXTINF:-1 catchup="vod" tvg-chno="68" tvg-id="Alibi" tvg-name="U&Alibi" tvg-logo="http://192.168.1.106/tv/logos/Alibi.png" group-title="U;Sky", U&Alibi
+plugin://plugin.video.tvone112/play/36/89/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="69" tvg-id="Gold" tvg-name="U&Gold" tvg-logo="http://192.168.1.106/tv/logos/Gold.png" group-title="U;Sky", U&Gold
+plugin://plugin.video.tvone112/play/36/103/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="114" tvg-id="Animal Planet +1" tvg-name="Animal Planet +1" tvg-logo="http://192.168.1.106/tv/logos/Animal_Planet+1.png" group-title="Discovery", Animal Planet +1
+plugin://plugin.video.tvone111/play/1029/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="126" tvg-id="Travelxp" tvg-name="Travelxp" tvg-logo="http://192.168.1.106/tv/logos/Travel_Channel.png" group-title="Discovery", Travelxp
+plugin://plugin.video.tvone112/play/36/136/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="130" tvg-id="National Geographic UK" tvg-name="Nat Geo UK" tvg-logo="http://192.168.1.106/tv/logos/National_Geographic_HD.png" group-title="Nat Geo & History", Nat Geo UK
+plugin://plugin.video.tvone/play/155/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="132" tvg-id="National Geographic WILD UK" tvg-name="Nat Geo WILD UK" tvg-logo="http://192.168.1.106/tv/logos/National_Geographic_WILD.png" group-title="Nat Geo & History", Nat Geo WILD UK
+plugin://plugin.video.tvone/play/157/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="134" tvg-id="National Geographic USA" tvg-name="Nat Geo USA" tvg-logo="http://192.168.1.106/tv/logos/National_Geographic_HD.png" group-title="Nat Geo & History;USA", Nat Geo USA
+plugin://plugin.video.tvone/play/158/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="136" tvg-id="National Geographic Wild USA" tvg-name="Nat Geo WILD USA" tvg-logo="http://192.168.1.106/tv/logos/National_Geographic_WILD.png" group-title="Nat Geo & History;USA", Nat Geo WILD USA
+plugin://plugin.video.tvone/play/486/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="150" tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-logo="http://192.168.1.106/tv/logos/Sky_Atlantic.png" group-title="Sky", Sky Atlantic
+plugin://plugin.video.tvone/play/192/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="152" tvg-id="History" tvg-name="Sky History" tvg-logo="http://192.168.1.106/tv/logos/Sky_History_HD.png" group-title="Sky;Nat Geo & History", Sky History
+plugin://plugin.video.tvone112/play/65/611/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="154" tvg-id="Sky History 2" tvg-name="Sky History 2" tvg-logo="http://192.168.1.106/tv/logos/Sky_History_HD.png" group-title="Sky;Nat Geo & History", Sky History 2
+plugin://plugin.video.tvone/play/726/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="156" tvg-id="Sky Max" tvg-name="Sky Max" tvg-logo="http://192.168.1.106/tv/logos/Sky_Max.png" group-title="Sky", Sky Max
+plugin://plugin.video.tvone111/play/1350/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="158" tvg-id="Sky Replay" tvg-name="Sky Replay" tvg-logo="http://192.168.1.106/tv/logos/Sky_Replay.png" group-title="Sky", Sky Replay
+plugin://plugin.video.tvone111/play/1351/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="170" tvg-id="Sky Cinema Premiere" tvg-name="Sky Cinema Premiere" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesPremiere.png" group-title="Sky;Movies", Sky Cinema Premiere
+plugin://plugin.video.tvone111/play/1343/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="172" tvg-id="Sky Cinema Action" tvg-name="Sky Cinema Action" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesAction.png" group-title="Sky;Movies", Sky Cinema Action
+plugin://plugin.video.tvone111/play/1344/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="174" tvg-id="Sky Cinema Comedy" tvg-name="Sky Cinema Comedy" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesComedy.png" group-title="Sky;Movies", Sky Cinema Comedy
+plugin://plugin.video.tvone111/play/1345/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="176" tvg-id="Sky Cinema Family" tvg-name="Sky Cinema Family" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesFamily.png" group-title="Sky;Movies", Sky Cinema Family
+plugin://plugin.video.tvone111/play/1346/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="178" tvg-id="Sky Cinema Greats" tvg-name="Sky Cinema Greats" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesGreats.png" group-title="Sky;Movies", Sky Cinema Greats
+plugin://plugin.video.tvone111/play/1349/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="180" tvg-id="Sky Cinema SciFi" tvg-name="Sky Cinema Sci-FI & Horror" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesSciFi.png" group-title="Sky;Movies", Sky Cinema Sci-FI & Horror
+plugin://plugin.video.tvone111/play/1347/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="182" tvg-id="Sky Cinema Select" tvg-name="Sky Cinema Select" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesSelect.png" group-title="Sky;Movies", Sky Cinema Select
+plugin://plugin.video.tvone/play/254/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="184" tvg-id="Sky Cinema Thriller" tvg-name="Sky Cinema Thriller" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesThriller.png" group-title="Sky;Movies", Sky Cinema Thriller
+plugin://plugin.video.tvone111/play/1348/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="208" tvg-id="FX USA" tvg-name="FX USA" tvg-logo="http://192.168.1.106/tv/logos/FX.png" group-title="USA", FX USA
+plugin://plugin.video.tvone/play/123/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="209" tvg-id="FXX USA" tvg-name="FXX USA" tvg-logo="http://192.168.1.106/tv/logos/FXX.png" group-title="USA", FXX USA
+plugin://plugin.video.tvone/play/603/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="211" tvg-id="Paramount Network USA" tvg-name="Paramount USA" tvg-logo="http://192.168.1.106/tv/logos/Paramount_Network.png" group-title="USA", Paramount USA
+plugin://plugin.video.tvone/play/677/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="212" tvg-id="Crime + Investigation UK" tvg-name="Crime Investigation UK" tvg-logo="http://192.168.1.106/tv/logos/Crime_Investigation.png" group-title="Crime;Sky", Crime Investigation UK
+plugin://plugin.video.tvone/play/623/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="213" tvg-id="Comedy Central USA" tvg-name="Comedy Central USA" tvg-logo="http://192.168.1.106/tv/logos/Comedy_Central_HD.png" group-title="Comedy;USA", Comedy Central USA
+plugin://plugin.video.tvone/play/85/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="214" tvg-id="Comedy Central UK" tvg-name="Comedy Central UK" tvg-logo="http://192.168.1.106/tv/logos/Comedy_Central_HD.png" group-title="Comedy", Comedy Central UK
+plugin://plugin.video.tvone112/play/36/1639/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="216" tvg-id="Comedy Central UK +1" tvg-name="Comedy Central UK +1" tvg-logo="http://192.168.1.106/tv/logos/Comedy_Central_Extra.png" group-title="Comedy", Comedy Central UK +1
+plugin://plugin.video.tvone/play/647/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="222" tvg-id="HBO USA" tvg-name="HBO USA" tvg-logo="http://192.168.1.106/tv/logos/HBO.png" group-title="USA", HBO USA
+plugin://plugin.video.tvone112/play/36/1642/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="224" tvg-id="AMC USA" tvg-name="AMC USA" tvg-logo="http://192.168.1.106/tv/logos/AMC.png" group-title="USA", AMC USA
+plugin://plugin.video.tvone/play/496/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="952" tvg-id="Sky Sports F1" tvg-name="Sky Sports F1 " tvg-logo="http://192.168.1.106/tv/logos/Sky_Sports_F1.png" group-title="Sky;Sports", Sky Sports F1
+plugin://plugin.video.tvone112/play/38/251/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="954" tvg-id="Sky Sports F1" tvg-name="MOTORSPORTS" tvg-logo="http://192.168.1.106/tv/logos/Sky_Sports_F1.png" group-title="Sky;Sports", MOTORSPORTS
+plugin://plugin.video.tvone112/play/140/2356/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="956" tvg-id="Sky Sports Main Event" tvg-name="Sky Sports Main Event" tvg-logo="http://192.168.1.106/tv/logos/Sky_Sports.png" group-title="Sky;Sports", Sky Sports Main Event
+plugin://plugin.video.tvone112/play/38/258/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="958" tvg-id="Sky Sports Action" tvg-name="Sky Sports Action" tvg-logo="http://192.168.1.106/tv/logos/Sky_Sports.png" group-title="Sky;Sports", Sky Sports Action
+plugin://plugin.video.tvone112/play/38/249/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="960" tvg-id="Sky Sports Arena" tvg-name="Sky Sports Arena" tvg-logo="http://192.168.1.106/tv/logos/Sky_Sports.png" group-title="Sky;Sports", Sky Sports Arena
+plugin://plugin.video.tvone112/play/38/253/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="962" tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="http://192.168.1.106/tv/logos/Sky_Sports.png" group-title="Sky;Sports", Sky Sports Cricket
+plugin://plugin.video.tvone112/play/38/254/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="964" tvg-id="Sky Sports Football" tvg-name="Sky Sports Football" tvg-logo="http://192.168.1.106/tv/logos/Sky_Sports.png" group-title="Sky;Sports", Sky Sports Football
+plugin://plugin.video.tvone112/play/38/255/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="966" tvg-id="Sky Sports Golf" tvg-name="Sky Sports Golf" tvg-logo="http://192.168.1.106/tv/logos/Sky_Sports.png" group-title="Sky;Sports", Sky Sports Golf
+plugin://plugin.video.tvone112/play/38/256/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="968" tvg-id="Sky Sports Mix" tvg-name="Sky Sports Mix" tvg-logo="http://192.168.1.106/tv/logos/Sky_Sports.png" group-title="Sky;Sports", Sky Sports Mix
+plugin://plugin.video.tvone112/play/38/259/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="970" tvg-id="Sky Sports News" tvg-name="Sky Sports News" tvg-logo="http://192.168.1.106/tv/logos/Sky_Sports_News.png" group-title="Sky;Sports", Sky Sports News
+plugin://plugin.video.tvone112/play/38/252/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="971" tvg-id="Sky Sports NFL" tvg-name="Sky Sports NFL" tvg-logo="http://192.168.1.106/tv/logos/Sky_Sports.png" group-title="Sky;Sports", Sky Sports NFL
+plugin://plugin.video.tvone/play/206/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="972" tvg-id="Sky Sports Premiere League" tvg-name="Sky Sports Premiere League" tvg-logo="http://192.168.1.106/tv/logos/Sky_Sports.png" group-title="Sky;Sports", Sky Sports Premiere League
+plugin://plugin.video.tvone112/play/38/257/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="973" tvg-id="Sky Sports Racing" tvg-name="Sky Sports Racing" tvg-logo="http://192.168.1.106/tv/logos/Sky_Sports.png" group-title="Sky;Sports", Sky Sports Racing
+plugin://plugin.video.tvone/play/41/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="974" tvg-id="TNT Sports 1" tvg-name="TNT Sports 1" tvg-logo="http://192.168.1.106/tv/logos/TNT_Sports_1.png" group-title="Sky;Sports", TNT Sports 1 
+plugin://plugin.video.tvone112/play/38/242/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="976" tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="http://192.168.1.106/tv/logos/TNT_Sports_2.png" group-title="Sky;Sports", TNT Sports 2
+plugin://plugin.video.tvone112/play/38/243/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="978" tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="http://192.168.1.106/tv/logos/TNT_Sports_3.png" group-title="Sky;Sports", TNT Sports 3 
+plugin://plugin.video.tvone112/play/38/244/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="982" tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://192.168.1.106/tv/logos/Eurosport_1.png" group-title="Sky;Sports", Eurosport 1
+plugin://plugin.video.tvone112/play/38/246/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="984" tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://192.168.1.106/tv/logos/Eurosport_2.png" group-title="Sky;Sports", Eurosport 2
+plugin://plugin.video.tvone112/play/38/247/play.pvr
