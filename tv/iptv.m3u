@@ -150,22 +150,22 @@ plugin://plugin.video.tvone112/play/36/1642/play.pvr
 #EXTINF:-1 catchup="vod" tvg-chno="224" tvg-id="AMC USA" tvg-name="AMC USA" tvg-logo="http://192.168.1.106/tv/logos/AMC.png" group-title="USA", AMC USA
 plugin://plugin.video.tvone/play/496/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="170" tvg-id="Sky Cinema Premiere" tvg-name="Sky Cinema Premiere" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesPremiere.png" group-title="Sky;Movies", Sky Cinema Premiere
+#EXTINF:-1 catchup="vod" tvg-chno="170" tvg-id="Sky Cinema Premiere" tvg-name="Sky Cinema Premiere" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesPremiere.png" group-title="Sky;Movies", Sky Cinema Premiere
 plugin://plugin.video.tvone111/play/1343/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="172" tvg-id="Sky Cinema Action" tvg-name="Sky Cinema Action" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesAction.png" group-title="Sky;Movies", Sky Cinema Action
+#EXTINF:-1 catchup="vod" tvg-chno="172" tvg-id="Sky Cinema Action" tvg-name="Sky Cinema Action" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesAction.png" group-title="Sky;Movies", Sky Cinema Action
 plugin://plugin.video.tvone111/play/1344/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="174" tvg-id="Sky Cinema Comedy" tvg-name="Sky Cinema Comedy" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesComedy.png" group-title="Sky;Movies", Sky Cinema Comedy
+#EXTINF:-1 catchup="vod" tvg-chno="174" tvg-id="Sky Cinema Comedy" tvg-name="Sky Cinema Comedy" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesComedy.png" group-title="Sky;Movies", Sky Cinema Comedy
 plugin://plugin.video.tvone111/play/1345/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="176" tvg-id="Sky Cinema Family" tvg-name="Sky Cinema Family" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesFamily.png" group-title="Sky;Movies", Sky Cinema Family
+#EXTINF:-1 catchup="vod" tvg-chno="176" tvg-id="Sky Cinema Family" tvg-name="Sky Cinema Family" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesFamily.png" group-title="Sky;Movies", Sky Cinema Family
 plugin://plugin.video.tvone111/play/1346/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="178" tvg-id="Sky Cinema Greats" tvg-name="Sky Cinema Greats" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesGreats.png" group-title="Sky;Movies", Sky Cinema Greats
+#EXTINF:-1 catchup="vod" tvg-chno="178" tvg-id="Sky Cinema Greats" tvg-name="Sky Cinema Greats" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesGreats.png" group-title="Sky;Movies", Sky Cinema Greats
 plugin://plugin.video.tvone111/play/1349/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="180" tvg-id="Sky Cinema SciFi" tvg-name="Sky Cinema Sci-FI & Horror" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesSciFi.png" group-title="Sky;Movies", Sky Cinema Sci-FI & Horror
+#EXTINF:-1 catchup="vod" tvg-chno="180" tvg-id="Sky Cinema SciFi" tvg-name="Sky Cinema Sci-FI & Horror" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesSciFi.png" group-title="Sky;Movies", Sky Cinema Sci-FI & Horror
 plugin://plugin.video.tvone111/play/1347/play.pvr
 
 #EXTINF:-1 catchup="vod" tvg-chno="182" tvg-id="Sky Cinema Select" tvg-name="Sky Cinema Select" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesSelect.png" group-title="Sky;Movies", Sky Cinema Select
@@ -177,7 +177,7 @@ plugin://plugin.video.tvone111/play/1348/play.pvr
 #EXTINF:-1 catchup="vod" tvg-chno="800" tvg-id="BBC News Channel" tvg-name="BBC News" tvg-logo="resource://resource.images.iplayerwww/media/bbc_news24.png" group-title="BBC;News", BBC News
 plugin://plugin.video.iplayerwww/?url=bbc_news24&mode=203&name=BBC+News+Channel
 
-#EXTINF:-1 catchup="vod" tvg-chno="801" tvg-id="Sky News" tvg-name="Sky News" tvg-logo="http://192.168.1.106/tv/logos/Sky_News.png" group-title="Sky;News", Sky News
+#EXTINF:-1 catchup="vod" tvg-chno="801" tvg-id="Sky News" tvg-name="Sky News" tvg-logo="http://https://kevwag.github.io/tv/logos/Sky_News.png" group-title="Sky;News", Sky News
 plugin://plugin.video.tvone111/play/1081/play.pvr
 
 #EXTINF:-1 catchup="vod" tvg-chno="845" tvg-id="BBC Parliament" tvg-name="BBC Parliament" tvg-logo="resource://resource.images.iplayerwww/media/bbc_parliament.png" group-title="BBC;News", BBC Parliament
