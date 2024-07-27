@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 catchup="vod" tvg-chno="1" tvg-id="BBC One South" tvg-name="BBC One South" tvg-logo="resource://resource.images.iplayerwww/media/bbc_one_south.png" group-title="BBC", BBC One South
+#EXTINF:-1 catchup="vod" tvg-chno="1" tvg-id="BBC One South" tvg-name="BBC One South" tvg-logo="https://kevwag.github.io/tv/logos/BBC_One_HD.png" group-title="BBC", BBC One South
 plugin://plugin.video.iplayerwww/?url=bbc_one_south&mode=203&name=BBC+One
 
-#EXTINF:-1 catchup="vod" tvg-chno="2" tvg-id="BBC Two" tvg-name="BBC Two" tvg-logo="resource://resource.images.iplayerwww/media/bbc_two_hd.png" group-title="BBC", BBC Two
+#EXTINF:-1 catchup="vod" tvg-chno="2" tvg-id="BBC Two" tvg-name="BBC Two" tvg-logo="https://kevwag.github.io/tv/logos/BBC_Two_HD.png" group-title="BBC", BBC Two
 plugin://plugin.video.iplayerwww/?url=bbc_two_england&mode=203&name=BBC+Two
 
-#EXTINF:-1 catchup="vod" tvg-chno="3" tvg-id="BBC Three" tvg-name="BBC Three" tvg-logo="resource://resource.images.iplayerwww/media/bbc_three_hd.png" group-title="BBC", BBC Three
+#EXTINF:-1 catchup="vod" tvg-chno="3" tvg-id="BBC Three" tvg-name="BBC Three" tvg-logo="https://kevwag.github.io/tv/logos/BBC_Three_HD.png" group-title="BBC", BBC Three
 plugin://plugin.video.iplayerwww/?url=bbc_three_hd&mode=203&name=BBC+Three
 
-#EXTINF:-1 catchup="vod" tvg-chno="4" tvg-id="BBC Four" tvg-name="BBC Four" tvg-logo="resource://resource.images.iplayerwww/media/bbc_four_hd.png" group-title="BBC", BBC Four
+#EXTINF:-1 catchup="vod" tvg-chno="4" tvg-id="BBC Four" tvg-name="BBC Four" tvg-logo="https://kevwag.github.io/tv/logos/BBC_Four_HD.png" group-title="BBC", BBC Four
 plugin://plugin.video.iplayerwww/?url=bbc_four_hd&mode=203&name=BBC+Four
 
-#EXTINF:-1 catchup="vod" tvg-chno="8" tvg-id="BBC One Lon HD" tvg-name="BBC One London" tvg-logo="resource://resource.images.iplayerwww/media/bbc_one_hd.png" group-title="BBC", BBC One London
+#EXTINF:-1 catchup="vod" tvg-chno="8" tvg-id="BBC One Lon HD" tvg-name="BBC One London" tvg-logo="https://kevwag.github.io/tv/logos/BBC_One_Lon_HD.png" group-title="BBC", BBC One London
 plugin://plugin.video.iplayerwww/?url=bbc_one_hd&mode=203&name=BBC+One
 
 #EXTINF:-1 catchup="vod" tvg-chno="25" tvg-id="Channel 4 HD" tvg-name="Channel 4" tvg-logo="http://192.168.1.106/tv/logos/Channel_4_HD.png" group-title="All 4 & My5", Channel 4
@@ -174,13 +174,13 @@ plugin://plugin.video.tvone/play/254/play.pvr
 #EXTINF:-1 catchup="vod" tvg-chno="184" tvg-id="Sky Cinema Thriller" tvg-name="Sky Cinema Thriller" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesThriller.png" group-title="Sky;Movies", Sky Cinema Thriller
 plugin://plugin.video.tvone111/play/1348/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="800" tvg-id="BBC News Channel" tvg-name="BBC News" tvg-logo="resource://resource.images.iplayerwww/media/bbc_news24.png" group-title="BBC;News", BBC News
+#EXTINF:-1 catchup="vod" tvg-chno="800" tvg-id="BBC News Channel" tvg-name="BBC News" tvg-logo="https://kevwag.github.io/tv/logos/BBC_News_HD.png" group-title="BBC;News", BBC News
 plugin://plugin.video.iplayerwww/?url=bbc_news24&mode=203&name=BBC+News+Channel
 
 #EXTINF:-1 catchup="vod" tvg-chno="801" tvg-id="Sky News" tvg-name="Sky News" tvg-logo="http://https://kevwag.github.io/tv/logos/Sky_News.png" group-title="Sky;News", Sky News
 plugin://plugin.video.tvone111/play/1081/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="845" tvg-id="BBC Parliament" tvg-name="BBC Parliament" tvg-logo="resource://resource.images.iplayerwww/media/bbc_parliament.png" group-title="BBC;News", BBC Parliament
+#EXTINF:-1 catchup="vod" tvg-chno="845" tvg-id="BBC Parliament" tvg-name="BBC Parliament" tvg-logo="https://kevwag.github.io/tv/logos/BBC_Parliament.png" group-title="BBC;News", BBC Parliament
 plugin://plugin.video.iplayerwww/?url=bbc_parliament&mode=203&name=BBC+Parliament
 
 #EXTINF:-1 catchup="vod" tvg-chno="952" tvg-id="Sky Sports F1" tvg-name="Sky Sports F1 " tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports_F1.png" group-title="Sky;Sport", Sky Sports F1
