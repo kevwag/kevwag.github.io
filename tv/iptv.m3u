@@ -15,97 +15,97 @@ plugin://plugin.video.iplayerwww/?url=bbc_four_hd&mode=203&name=BBC+Four
 #EXTINF:-1 catchup="vod" tvg-chno="8" tvg-id="BBC One Lon HD" tvg-name="BBC One London" tvg-logo="https://kevwag.github.io/tv/logos/BBC_One_Lon_HD.png" group-title="BBC", BBC One London
 plugin://plugin.video.iplayerwww/?url=bbc_one_hd&mode=203&name=BBC+One
 
-#EXTINF:-1 catchup="vod" tvg-chno="25" tvg-id="Channel 4 HD" tvg-name="Channel 4" tvg-logo="http://192.168.1.106/tv/logos/Channel_4_HD.png" group-title="All 4 & My5", Channel 4
+#EXTINF:-1 catchup="vod" tvg-chno="25" tvg-id="Channel 4 HD" tvg-name="Channel 4" tvg-logo="https://kevwag.github.io/tv/logos/Channel_4_HD.png" group-title="All 4 & My5", Channel 4
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/channel4/get_live_url/?_pickle_=80049535000000000000007d94288c075f7469746c655f948c084368616e6e656c34948c08786d6c74765f6964944e8c076974656d5f6964948c02433494752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="27" tvg-id="More 4" tvg-name="More4" tvg-logo="http://192.168.1.106/tv/logos/More4.png" group-title="All 4 & My5", More4
+#EXTINF:-1 catchup="vod" tvg-chno="27" tvg-id="More 4" tvg-name="More4" tvg-logo="https://kevwag.github.io/tv/logos/More4.png" group-title="All 4 & My5", More4
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/channel4/get_live_url/?_pickle_=80049532000000000000007d94288c075f7469746c655f948c054d6f726534948c08786d6c74765f6964944e8c076974656d5f6964948c024d3494752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="29" tvg-id="E4" tvg-name="E4" tvg-logo="http://192.168.1.106/tv/logos/E4.png" group-title="All 4 & My5", E4
+#EXTINF:-1 catchup="vod" tvg-chno="29" tvg-id="E4" tvg-name="E4" tvg-logo="https://kevwag.github.io/tv/logos/E4.png" group-title="All 4 & My5", E4
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/channel4/get_live_url/?_pickle_=8004952c000000000000007d94288c075f7469746c655f948c024534948c08786d6c74765f6964944e8c076974656d5f6964946802752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="32" tvg-id="4seven" tvg-name="4seven" tvg-logo="http://192.168.1.106/tv/logos/4seven.png" group-title="All 4 & My5", 4seven
+#EXTINF:-1 catchup="vod" tvg-chno="32" tvg-id="4seven" tvg-name="4seven" tvg-logo="https://kevwag.github.io/tv/logos/4seven.png" group-title="All 4 & My5", 4seven
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/channel4/get_live_url/?_pickle_=80049533000000000000007d94288c075f7469746c655f948c0634736576656e948c08786d6c74765f6964944e8c076974656d5f6964948c02345394752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="33" tvg-id="Film4" tvg-name="Film4" tvg-logo="http://192.168.1.106/tv/logos/Film4.png" group-title="All 4 & My5", Film4
+#EXTINF:-1 catchup="vod" tvg-chno="33" tvg-id="Film4" tvg-name="Film4" tvg-logo="https://kevwag.github.io/tv/logos/Film4.png" group-title="All 4 & My5", Film4
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/channel4/get_live_url/?_pickle_=80049532000000000000007d94288c075f7469746c655f948c0546696c6d34948c08786d6c74765f6964944e8c076974656d5f6964948c02463494752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="40" tvg-id="Channel 5 HD" tvg-name="Channel 5" tvg-logo="http://192.168.1.106/tv/logos/Channel_5_HD.png" group-title="All 4 & My5", Channel 5
+#EXTINF:-1 catchup="vod" tvg-chno="40" tvg-id="Channel 5 HD" tvg-name="Channel 5" tvg-logo="https://kevwag.github.io/tv/logos/Channel_5_HD.png" group-title="All 4 & My5", Channel 5
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/my5/get_live_url/?_pickle_=8004953f000000000000007d94288c075f7469746c655f948c124368616e6e656c20352066726f6d204d7935948c08786d6c74765f6964944e8c076974656d5f6964948c02433594752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="42" tvg-id="5STAR" tvg-name="5STAR" tvg-logo="http://192.168.1.106/tv/logos/5STAR.png" group-title="All 4 & My5", 5STAR
+#EXTINF:-1 catchup="vod" tvg-chno="42" tvg-id="5STAR" tvg-name="5STAR" tvg-logo="https://kevwag.github.io/tv/logos/5STAR.png" group-title="All 4 & My5", 5STAR
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/my5/get_live_url/?_pickle_=8004953c000000000000007d94288c075f7469746c655f948c0f3520537461722066726f6d204d7935948c08786d6c74765f6964944e8c076974656d5f6964948c02433694752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="44" tvg-id="5USA" tvg-name="5USA" tvg-logo="http://192.168.1.106/tv/logos/5USA.png" group-title="All 4 & My5", 5USA
+#EXTINF:-1 catchup="vod" tvg-chno="44" tvg-id="5USA" tvg-name="5USA" tvg-logo="https://kevwag.github.io/tv/logos/5USA.png" group-title="All 4 & My5", 5USA
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/my5/get_live_url/?_pickle_=8004953b000000000000007d94288c075f7469746c655f948c0e35205553412066726f6d204d7935948c08786d6c74765f6964944e8c076974656d5f6964948c02433794752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="46" tvg-id="5SELECT" tvg-name="5SELECT" tvg-logo="http://192.168.1.106/tv/logos/5SELECT.png" group-title="All 4 & My5", 5SELECT
+#EXTINF:-1 catchup="vod" tvg-chno="46" tvg-id="5SELECT" tvg-name="5SELECT" tvg-logo="https://kevwag.github.io/tv/logos/5SELECT.png" group-title="All 4 & My5", 5SELECT
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/my5/get_live_url/?_pickle_=8004953e000000000000007d94288c075f7469746c655f948c11352053656c6563742066726f6d204d7935948c08786d6c74765f6964944e8c076974656d5f6964948c02433894752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="47" tvg-id="5ACTION" tvg-name="5ACTION" tvg-logo="http://192.168.1.106/tv/logos/5ACTION.png" group-title="All 4 & My5", 5ACTION
+#EXTINF:-1 catchup="vod" tvg-chno="47" tvg-id="5ACTION" tvg-name="5ACTION" tvg-logo="https://kevwag.github.io/tv/logos/5ACTION.png" group-title="All 4 & My5", 5ACTION
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/my5/get_live_url/?_pickle_=8004953e000000000000007d94288c075f7469746c655f948c113520416374696f6e2066726f6d204d7935948c08786d6c74765f6964944e8c076974656d5f6964948c02433094752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="60" tvg-id="Yesterday" tvg-name="U&Yesterday" tvg-logo="http://192.168.1.106/tv/logos/YESTERDAY.png" group-title="U", U&Yesterday
+#EXTINF:-1 catchup="vod" tvg-chno="60" tvg-id="Yesterday" tvg-name="U&Yesterday" tvg-logo="https://kevwag.github.io/tv/logos/Yesterday.png" group-title="U", U&Yesterday
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/uktvplay/get_live_url/?_pickle_=80049550000000000000007d94288c075f7469746c655f948c09596573746572646179948c08786d6c74765f6964948c113332302e747667756964652e636f2e756b948c076974656d5f6964948c0979657374657264617994752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="64" tvg-id="Dave" tvg-name="U&Dave" tvg-logo="http://192.168.1.106/tv/logos/Dave.png" group-title="U", U&Dave
+#EXTINF:-1 catchup="vod" tvg-chno="64" tvg-id="Dave" tvg-name="U&Dave" tvg-logo="https://kevwag.github.io/tv/logos/Dave.png" group-title="U", U&Dave
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/uktvplay/get_live_url/?_pickle_=80049546000000000000007d94288c075f7469746c655f948c0444617665948c08786d6c74765f6964948c113433322e747667756964652e636f2e756b948c076974656d5f6964948c046461766594752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="68" tvg-id="Alibi" tvg-name="U&Alibi" tvg-logo="http://192.168.1.106/tv/logos/Alibi.png" group-title="U;Crime", U&Alibi
+#EXTINF:-1 catchup="vod" tvg-chno="68" tvg-id="Alibi" tvg-name="U&Alibi" tvg-logo="https://kevwag.github.io/tv/logos/Alibi.png" group-title="U;Crime", U&Alibi
 plugin://plugin.video.tvone112/play/36/89/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="69" tvg-id="Gold" tvg-name="U&Gold" tvg-logo="http://192.168.1.106/tv/logos/Gold.png" group-title="U", U&Gold
+#EXTINF:-1 catchup="vod" tvg-chno="69" tvg-id="Gold" tvg-name="U&Gold" tvg-logo="https://kevwag.github.io/tv/logos/Gold.png" group-title="U", U&Gold
 plugin://plugin.video.tvone112/play/36/103/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="72" tvg-id="Drama" tvg-name="U&Drama" tvg-logo="http://192.168.1.106/tv/logos/Drama.png" group-title="U", U&Drama
+#EXTINF:-1 catchup="vod" tvg-chno="72" tvg-id="Drama" tvg-name="U&Drama" tvg-logo="https://kevwag.github.io/tv/logos/Drama.png" group-title="U", U&Drama
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/uktvplay/get_live_url/?_pickle_=80049548000000000000007d94288c075f7469746c655f948c054472616d61948c08786d6c74765f6964948c113837312e747667756964652e636f2e756b948c076974656d5f6964948c056472616d6194752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="75" tvg-id="W" tvg-name="U&W" tvg-logo="http://192.168.1.106/tv/logos/W.png" group-title="U", U&W
+#EXTINF:-1 catchup="vod" tvg-chno="75" tvg-id="W" tvg-name="U&W" tvg-logo="https://kevwag.github.io/tv/logos/W.png" group-title="U", U&W
 plugin://plugin.video.tvone112/play/36/140/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="90" tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://192.168.1.106/tv/logos/Discovery_Channel.png" group-title="Discovery", Discovery Channel
+#EXTINF:-1 catchup="vod" tvg-chno="90" tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://kevwag.github.io/tv/logos/Discovery_Channel.png" group-title="Discovery", Discovery Channel
 plugin://plugin.video.tvone111/play/1011/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="92" tvg-id="Discovery History" tvg-name="Discovery History" tvg-logo="http://192.168.1.106/tv/logos/Discovery_History.png" group-title="Discovery", Discovery History
+#EXTINF:-1 catchup="vod" tvg-chno="92" tvg-id="Discovery History" tvg-name="Discovery History" tvg-logo="https://kevwag.github.io/tv/logos/Discovery_History.png" group-title="Discovery", Discovery History
 plugin://plugin.video.tvone111/play/1013/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="94" tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://192.168.1.106/tv/logos/Discovery_Science.png" group-title="Discovery", Discovery Science
+#EXTINF:-1 catchup="vod" tvg-chno="94" tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://kevwag.github.io/tv/logos/Discovery_Science.png" group-title="Discovery", Discovery Science
 plugin://plugin.video.tvone111/play/1012/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="96" tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://192.168.1.106/tv/logos/Discovery_Turbo.png" group-title="Discovery", Discovery Turbo
+#EXTINF:-1 catchup="vod" tvg-chno="96" tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://kevwag.github.io/tv/logos/Discovery_Turbo.png" group-title="Discovery", Discovery Turbo
 plugin://plugin.video.tvone111/play/1014/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="100" tvg-id="QUEST HD" tvg-name="Quest HD" tvg-logo="http://192.168.1.106/tv/logos/Quest.png" group-title="Discovery", Quest HD
+#EXTINF:-1 catchup="vod" tvg-chno="100" tvg-id="QUEST HD" tvg-name="Quest HD" tvg-logo="https://kevwag.github.io/tv/logos/Quest.png" group-title="Discovery", Quest HD
 plugin://plugin.video.tvone111/play/1364/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="107" tvg-id="Investigation Discovery" tvg-name="Investigation Discovery" tvg-logo="http://192.168.1.106/tv/logos/ID.png" group-title="Discovery", Investigation Discovery
+#EXTINF:-1 catchup="vod" tvg-chno="107" tvg-id="Investigation Discovery" tvg-name="Investigation Discovery" tvg-logo="https://kevwag.github.io/tv/logos/ID.png" group-title="Discovery", Investigation Discovery
 plugin://plugin.video.tvone111/play/1015/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="111" tvg-id="TLC" tvg-name="TLC" tvg-logo="http://192.168.1.106/tv/logos/TLC.png" group-title="Discovery", TLC
+#EXTINF:-1 catchup="vod" tvg-chno="111" tvg-id="TLC" tvg-name="TLC" tvg-logo="https://kevwag.github.io/tv/logos/TLC.png" group-title="Discovery", TLC
 plugin://plugin.video.tvone111/play/1339/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="113" tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://192.168.1.106/tv/logos/Animal_Planet.png" group-title="Discovery", Animal Planet
+#EXTINF:-1 catchup="vod" tvg-chno="113" tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://kevwag.github.io/tv/logos/Animal_Planet.png" group-title="Discovery", Animal Planet
 plugin://plugin.video.tvone111/play/1008/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="114" tvg-id="Animal Planet +1" tvg-name="Animal Planet +1" tvg-logo="http://192.168.1.106/tv/logos/Animal_Planet+1.png" group-title="Discovery", Animal Planet +1
+#EXTINF:-1 catchup="vod" tvg-chno="114" tvg-id="Animal Planet +1" tvg-name="Animal Planet +1" tvg-logo="https://kevwag.github.io/tv/logos/Animal_Planet+1.png" group-title="Discovery", Animal Planet +1
 plugin://plugin.video.tvone111/play/1029/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="120" tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://192.168.1.106/tv/logos/Food_Network.png" group-title="Discovery", Food Network
+#EXTINF:-1 catchup="vod" tvg-chno="120" tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://kevwag.github.io/tv/logos/Food_Network.png" group-title="Discovery", Food Network
 plugin://plugin.video.tvone111/play/1358/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="126" tvg-id="Travelxp" tvg-name="Travelxp" tvg-logo="http://192.168.1.106/tv/logos/Travel_Channel.png" group-title="Discovery", Travelxp
+#EXTINF:-1 catchup="vod" tvg-chno="126" tvg-id="Travelxp" tvg-name="Travelxp" tvg-logo="https://kevwag.github.io/tv/logos/Travel_Channel.png" group-title="Discovery", Travelxp
 plugin://plugin.video.tvone112/play/36/136/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="130" tvg-id="National Geographic UK" tvg-name="Nat Geo UK" tvg-logo="http://192.168.1.106/tv/logos/National_Geographic_HD.png" group-title="Nat Geo & History", Nat Geo UK
+#EXTINF:-1 catchup="vod" tvg-chno="130" tvg-id="National Geographic UK" tvg-name="Nat Geo UK" tvg-logo="https://kevwag.github.io/tv/logos/National_Geographic_HD.png" group-title="Nat Geo & History", Nat Geo UK
 plugin://plugin.video.tvone/play/155/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="132" tvg-id="National Geographic WILD UK" tvg-name="Nat Geo WILD UK" tvg-logo="http://192.168.1.106/tv/logos/National_Geographic_WILD.png" group-title="Nat Geo & History", Nat Geo WILD UK
+#EXTINF:-1 catchup="vod" tvg-chno="132" tvg-id="National Geographic WILD UK" tvg-name="Nat Geo WILD UK" tvg-logo="https://kevwag.github.io/tv/logos/National_Geographic_WILD.png" group-title="Nat Geo & History", Nat Geo WILD UK
 plugin://plugin.video.tvone/play/157/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="134" tvg-id="National Geographic USA" tvg-name="Nat Geo USA" tvg-logo="http://192.168.1.106/tv/logos/National_Geographic_HD.png" group-title="Nat Geo & History;USA", Nat Geo USA
+#EXTINF:-1 catchup="vod" tvg-chno="134" tvg-id="National Geographic USA" tvg-name="Nat Geo USA" tvg-logo="https://kevwag.github.io/tv/logos/National_Geographic_HD.png" group-title="Nat Geo & History;USA", Nat Geo USA
 plugin://plugin.video.tvone/play/158/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="136" tvg-id="National Geographic Wild USA" tvg-name="Nat Geo WILD USA" tvg-logo="http://192.168.1.106/tv/logos/National_Geographic_WILD.png" group-title="Nat Geo & History;USA", Nat Geo WILD USA
+#EXTINF:-1 catchup="vod" tvg-chno="136" tvg-id="National Geographic Wild USA" tvg-name="Nat Geo WILD USA" tvg-logo="https://kevwag.github.io/tv/logos/National_Geographic_WILD.png" group-title="Nat Geo & History;USA", Nat Geo WILD USA
 plugin://plugin.video.tvone/play/486/play.pvr
 
 #EXTINF:-1 catchup="vod" tvg-chno="150" tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Atlantic.png" group-title="Sky", Sky Atlantic
@@ -120,34 +120,34 @@ plugin://plugin.video.tvone/play/726/play.pvr
 #EXTINF:-1 catchup="vod" tvg-chno="156" tvg-id="Sky Max" tvg-name="Sky Max" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Max.png" group-title="Sky", Sky Max
 plugin://plugin.video.tvone111/play/1350/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="158" tvg-id="Sky Replay" tvg-name="Sky Replay" tvg-logo="http://192.168.1.106/tv/logos/Sky_Replay.png" group-title="Sky", Sky Replay
+#EXTINF:-1 catchup="vod" tvg-chno="158" tvg-id="Sky Replay" tvg-name="Sky Replay" tvg-logo="https://kevwag.github.io/tv/logos/Sky.png" group-title="Sky", Sky Replay
 plugin://plugin.video.tvone111/play/1351/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="208" tvg-id="FX USA" tvg-name="FX USA" tvg-logo="http://192.168.1.106/tv/logos/FX.png" group-title="Comedy;USA", FX USA
+#EXTINF:-1 catchup="vod" tvg-chno="208" tvg-id="FX USA" tvg-name="FX USA" tvg-logo="https://kevwag.github.io/tv/logos/FX.png" group-title="Comedy;USA", FX USA
 plugin://plugin.video.tvone/play/123/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="209" tvg-id="FXX USA" tvg-name="FXX USA" tvg-logo="http://192.168.1.106/tv/logos/FXX.png" group-title="Comedy;USA", FXX USA
+#EXTINF:-1 catchup="vod" tvg-chno="209" tvg-id="FXX USA" tvg-name="FXX USA" tvg-logo="https://kevwag.github.io/tv/logos/FXX.png" group-title="Comedy;USA", FXX USA
 plugin://plugin.video.tvone/play/603/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="211" tvg-id="Paramount Network USA" tvg-name="Paramount USA" tvg-logo="http://192.168.1.106/tv/logos/Paramount_Network.png" group-title="USA", Paramount USA
+#EXTINF:-1 catchup="vod" tvg-chno="211" tvg-id="Paramount Network USA" tvg-name="Paramount USA" tvg-logo="https://kevwag.github.io/tv/logos/Paramount_Network.png" group-title="USA", Paramount USA
 plugin://plugin.video.tvone/play/677/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="212" tvg-id="Crime + Investigation UK" tvg-name="Crime Investigation UK" tvg-logo="http://192.168.1.106/tv/logos/Crime_Investigation.png" group-title="Crime", Crime Investigation UK
+#EXTINF:-1 catchup="vod" tvg-chno="212" tvg-id="Crime + Investigation UK" tvg-name="Crime Investigation UK" tvg-logo="https://kevwag.github.io/tv/logos/Crime_Investigation.png" group-title="Crime", Crime Investigation UK
 plugin://plugin.video.tvone/play/623/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="213" tvg-id="Comedy Central USA" tvg-name="Comedy Central USA" tvg-logo="http://192.168.1.106/tv/logos/Comedy_Central_HD.png" group-title="Comedy;USA", Comedy Central USA
+#EXTINF:-1 catchup="vod" tvg-chno="213" tvg-id="Comedy Central USA" tvg-name="Comedy Central USA" tvg-logo="https://kevwag.github.io/tv/logos/Comedy_Central.png" group-title="Comedy;USA", Comedy Central USA
 plugin://plugin.video.tvone/play/85/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="214" tvg-id="Comedy Central UK" tvg-name="Comedy Central UK" tvg-logo="http://192.168.1.106/tv/logos/Comedy_Central_HD.png" group-title="Comedy", Comedy Central UK
+#EXTINF:-1 catchup="vod" tvg-chno="214" tvg-id="Comedy Central UK" tvg-name="Comedy Central UK" tvg-logo="https://kevwag.github.io/tv/logos/Comedy_Central.png" group-title="Comedy", Comedy Central UK
 plugin://plugin.video.tvone112/play/36/1639/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="216" tvg-id="Comedy Central UK +1" tvg-name="Comedy Central UK +1" tvg-logo="http://192.168.1.106/tv/logos/Comedy_Central_Extra.png" group-title="Comedy", Comedy Central UK +1
+#EXTINF:-1 catchup="vod" tvg-chno="216" tvg-id="Comedy Central UK +1" tvg-name="Comedy Central UK +1" tvg-logo="https://kevwag.github.io/tv/logos/Comedy_Central_Extra.png" group-title="Comedy", Comedy Central UK +1
 plugin://plugin.video.tvone/play/647/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="222" tvg-id="HBO USA" tvg-name="HBO USA" tvg-logo="http://192.168.1.106/tv/logos/HBO.png" group-title="USA", HBO USA
+#EXTINF:-1 catchup="vod" tvg-chno="222" tvg-id="HBO USA" tvg-name="HBO USA" tvg-logo="https://kevwag.github.io/tv/logos/HBO.png" group-title="USA", HBO USA
 plugin://plugin.video.tvone112/play/36/1642/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="224" tvg-id="AMC USA" tvg-name="AMC USA" tvg-logo="http://192.168.1.106/tv/logos/AMC.png" group-title="USA", AMC USA
+#EXTINF:-1 catchup="vod" tvg-chno="224" tvg-id="AMC USA" tvg-name="AMC USA" tvg-logo="https://kevwag.github.io/tv/logos/AMC.png" group-title="USA", AMC USA
 plugin://plugin.video.tvone/play/496/play.pvr
 
 #EXTINF:-1 catchup="vod" tvg-chno="170" tvg-id="Sky Cinema Premiere" tvg-name="Sky Cinema Premiere" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesPremiere.png" group-title="Sky;Movies", Sky Cinema Premiere
@@ -168,10 +168,10 @@ plugin://plugin.video.tvone111/play/1349/play.pvr
 #EXTINF:-1 catchup="vod" tvg-chno="180" tvg-id="Sky Cinema SciFi" tvg-name="Sky Cinema Sci-FI & Horror" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesSciFi.png" group-title="Sky;Movies", Sky Cinema Sci-FI & Horror
 plugin://plugin.video.tvone111/play/1347/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="182" tvg-id="Sky Cinema Select" tvg-name="Sky Cinema Select" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesSelect.png" group-title="Sky;Movies", Sky Cinema Select
+#EXTINF:-1 catchup="vod" tvg-chno="182" tvg-id="Sky Cinema Select" tvg-name="Sky Cinema Select" tvg-logo="https://kevwag.github.io/tv/logos/Sky.png" group-title="Sky;Movies", Sky Cinema Select
 plugin://plugin.video.tvone/play/254/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="184" tvg-id="Sky Cinema Thriller" tvg-name="Sky Cinema Thriller" tvg-logo="http://192.168.1.106/tv/logos/SkyMoviesThriller.png" group-title="Sky;Movies", Sky Cinema Thriller
+#EXTINF:-1 catchup="vod" tvg-chno="184" tvg-id="Sky Cinema Thriller" tvg-name="Sky Cinema Thriller" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesThriller.png" group-title="Sky;Movies", Sky Cinema Thriller
 plugin://plugin.video.tvone111/play/1348/play.pvr
 
 #EXTINF:-1 catchup="vod" tvg-chno="800" tvg-id="BBC News Channel" tvg-name="BBC News" tvg-logo="https://kevwag.github.io/tv/logos/BBC_News_HD.png" group-title="BBC;News", BBC News
