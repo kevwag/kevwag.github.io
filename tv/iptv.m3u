@@ -15,34 +15,34 @@ plugin://plugin.video.iplayerwww/?url=bbc_four_hd&mode=203&name=BBC+Four
 #EXTINF:-1 catchup="vod" tvg-chno="8" tvg-id="BBC One Lon HD" tvg-name="BBC One London" tvg-logo="https://kevwag.github.io/tv/logos/BBC_One_Lon_HD.png" group-title="BBC", BBC One London
 plugin://plugin.video.iplayerwww/?url=bbc_one_hd&mode=203&name=BBC+One
 
-#EXTINF:-1 catchup="vod" tvg-chno="25" tvg-id="Channel 4 HD" tvg-name="Channel 4" tvg-logo="https://kevwag.github.io/tv/logos/Channel_4_HD.png" group-title="All 4 & My5", Channel 4
+#EXTINF:-1 catchup="vod" tvg-chno="25" tvg-id="Channel 4 HD" tvg-name="Channel 4" tvg-logo="https://kevwag.github.io/tv/logos/Channel_4_HD.png" group-title="All 4", Channel 4
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/channel4/get_live_url/?_pickle_=80049535000000000000007d94288c075f7469746c655f948c084368616e6e656c34948c08786d6c74765f6964944e8c076974656d5f6964948c02433494752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="27" tvg-id="More 4" tvg-name="More4" tvg-logo="https://kevwag.github.io/tv/logos/More4.png" group-title="All 4 & My5", More4
+#EXTINF:-1 catchup="vod" tvg-chno="27" tvg-id="More 4" tvg-name="More4" tvg-logo="https://kevwag.github.io/tv/logos/More4.png" group-title="All 4", More4
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/channel4/get_live_url/?_pickle_=80049532000000000000007d94288c075f7469746c655f948c054d6f726534948c08786d6c74765f6964944e8c076974656d5f6964948c024d3494752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="29" tvg-id="E4" tvg-name="E4" tvg-logo="https://kevwag.github.io/tv/logos/E4.png" group-title="All 4 & My5", E4
+#EXTINF:-1 catchup="vod" tvg-chno="29" tvg-id="E4" tvg-name="E4" tvg-logo="https://kevwag.github.io/tv/logos/E4.png" group-title="All 4", E4
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/channel4/get_live_url/?_pickle_=8004952c000000000000007d94288c075f7469746c655f948c024534948c08786d6c74765f6964944e8c076974656d5f6964946802752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="32" tvg-id="4seven" tvg-name="4seven" tvg-logo="https://kevwag.github.io/tv/logos/4seven.png" group-title="All 4 & My5", 4seven
+#EXTINF:-1 catchup="vod" tvg-chno="32" tvg-id="4seven" tvg-name="4seven" tvg-logo="https://kevwag.github.io/tv/logos/4seven.png" group-title="All 4", 4seven
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/channel4/get_live_url/?_pickle_=80049533000000000000007d94288c075f7469746c655f948c0634736576656e948c08786d6c74765f6964944e8c076974656d5f6964948c02345394752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="33" tvg-id="Film4" tvg-name="Film4" tvg-logo="https://kevwag.github.io/tv/logos/Film4.png" group-title="All 4 & My5", Film4
+#EXTINF:-1 catchup="vod" tvg-chno="33" tvg-id="Film4" tvg-name="Film4" tvg-logo="https://kevwag.github.io/tv/logos/Film4.png" group-title="All 4", Film4
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/channel4/get_live_url/?_pickle_=80049532000000000000007d94288c075f7469746c655f948c0546696c6d34948c08786d6c74765f6964944e8c076974656d5f6964948c02463494752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="40" tvg-id="Channel 5 HD" tvg-name="Channel 5" tvg-logo="https://kevwag.github.io/tv/logos/Channel_5_HD.png" group-title="All 4 & My5", Channel 5
+#EXTINF:-1 catchup="vod" tvg-chno="40" tvg-id="Channel 5 HD" tvg-name="Channel 5" tvg-logo="https://kevwag.github.io/tv/logos/Channel_5_HD.png" group-title="My5", Channel 5
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/my5/get_live_url/?_pickle_=8004953f000000000000007d94288c075f7469746c655f948c124368616e6e656c20352066726f6d204d7935948c08786d6c74765f6964944e8c076974656d5f6964948c02433594752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="42" tvg-id="5STAR" tvg-name="5STAR" tvg-logo="https://kevwag.github.io/tv/logos/5STAR.png" group-title="All 4 & My5", 5STAR
+#EXTINF:-1 catchup="vod" tvg-chno="42" tvg-id="5STAR" tvg-name="5STAR" tvg-logo="https://kevwag.github.io/tv/logos/5STAR.png" group-title="My5", 5STAR
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/my5/get_live_url/?_pickle_=8004953c000000000000007d94288c075f7469746c655f948c0f3520537461722066726f6d204d7935948c08786d6c74765f6964944e8c076974656d5f6964948c02433694752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="44" tvg-id="5USA" tvg-name="5USA" tvg-logo="https://kevwag.github.io/tv/logos/5USA.png" group-title="All 4 & My5", 5USA
+#EXTINF:-1 catchup="vod" tvg-chno="44" tvg-id="5USA" tvg-name="5USA" tvg-logo="https://kevwag.github.io/tv/logos/5USA.png" group-title="My5", 5USA
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/my5/get_live_url/?_pickle_=8004953b000000000000007d94288c075f7469746c655f948c0e35205553412066726f6d204d7935948c08786d6c74765f6964944e8c076974656d5f6964948c02433794752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="46" tvg-id="5SELECT" tvg-name="5SELECT" tvg-logo="https://kevwag.github.io/tv/logos/5SELECT.png" group-title="All 4 & My5", 5SELECT
+#EXTINF:-1 catchup="vod" tvg-chno="46" tvg-id="5SELECT" tvg-name="5SELECT" tvg-logo="https://kevwag.github.io/tv/logos/5SELECT.png" group-title="My5", 5SELECT
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/my5/get_live_url/?_pickle_=8004953e000000000000007d94288c075f7469746c655f948c11352053656c6563742066726f6d204d7935948c08786d6c74765f6964944e8c076974656d5f6964948c02433894752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="47" tvg-id="5ACTION" tvg-name="5ACTION" tvg-logo="https://kevwag.github.io/tv/logos/5ACTION.png" group-title="All 4 & My5", 5ACTION
+#EXTINF:-1 catchup="vod" tvg-chno="47" tvg-id="5ACTION" tvg-name="5ACTION" tvg-logo="https://kevwag.github.io/tv/logos/5ACTION.png" group-title="My5", 5ACTION
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/my5/get_live_url/?_pickle_=8004953e000000000000007d94288c075f7469746c655f948c113520416374696f6e2066726f6d204d7935948c08786d6c74765f6964944e8c076974656d5f6964948c02433094752e
 
 #EXTINF:-1 catchup="vod" tvg-chno="60" tvg-id="Yesterday" tvg-name="U&Yesterday" tvg-logo="https://kevwag.github.io/tv/logos/Yesterday.png" group-title="U", U&Yesterday
