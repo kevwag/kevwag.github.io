@@ -52,9 +52,13 @@ If you have changes either create a PR containing the changes or an issue with d
   <!-- NEWS/CURRENT AFFAIRS -->
   <genre genreId="0x20">News</genre> <!-- 0x20 News/Current Affairs -->
   <genre genreId="0x20">General News/Current Affairs</genre> <!-- 0x20 News/Current Affairs -->
+  <genre genreId="0x20">News / Current Affairs</genre>
+  <genre genreId="0x21">News / Weather Report</genre>
+  <genre genreId="0x22">News Magazine</genre>
   <genre genreId="0x23">Documentary</genre> <!-- 0x23 Documentary -->
   <genre genreId="0x23">Documentary. News</genre> <!-- 0x23 Documentary -->
   <genre genreId="0x24">Discussion. News</genre> <!-- 0x24 Discussion/Interview/Debate -->
+  <genre genreId="0x24">Discussion / Interview / Debate</genre>
 
   <!-- SHOW -->
   <genre genreId="0x30">Series</genre> <!-- 0x30 Show/Game Show -->
@@ -74,12 +78,23 @@ If you have changes either create a PR containing the changes or an issue with d
 
   <!-- SPORTS -->
   <genre genreId="0x40">Sport</genre> <!-- 0x40 Sports -->
+  <genre genreId="0x40">Sports</genre>
   <genre genreId="0x40">Live/Sport</genre> <!-- 0x40 Sports -->
   <genre genreId="0x40">General Sports</genre> <!-- 0x40 Sports -->
+  <genre genreId="0x41">Special Event</genre>
+  <genre genreId="0x42">Sport Magazine</genre>
+  <genre genreId="0x43">Football</genre>
   <genre genreId="0x43">Football. Sports</genre> <!-- 0x43 Football -->
+  <genre genreId="0x44">Tennis / Squash</genre>
+  <genre genreId="0x45">Team Sports</genre>
+  <genre genreId="0x46">Athletics</genre>
+  <genre genreId="0x47">Motor Sport</genre>
+  <genre genreId="0x48">Water Sport</genre>
+  <genre genreId="0x49">Winter Sports</genre>
+  <genre genreId="0x4A">Equestrian</genre>
   <genre genreId="0x4B">Martial Sports</genre> <!-- 0x4B Martial Sports -->
   <genre genreId="0x4B">Martial Sports. Sports</genre> <!-- 0x4B Martial Sports -->
-  <genre genreId="0x4B">Wrestling</genre> <!-- 0x4B Martial Sports -->
+  <genre genreId="0x4B">Wrestling</genre> <!-- 0x4B Martial Sports -->  
 
   <!-- CHILDREN/YOUTH -->
   <genre genreId="0x50">Children</genre> <!-- 0x50 Children's/Youth Programmes -->
