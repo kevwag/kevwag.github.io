@@ -21,25 +21,25 @@
 #EXTINF:-1 catchup="vod" tvg-chno="1" tvg-id="BBC One South" tvg-name="BBC One South" tvg-logo="https://kevwag.github.io/tv/logos/BBC_One_HD.png" group-title="BBC", BBC One South
 plugin://plugin.video.iplayerwww/?url=bbc_one_south&mode=203&name=BBC+One
 
-#EXTINF:-1 tvg-chno="20" tvg-id="ITV1 South" tvg-name="ITV" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png?w=512" group-title="ITV", ITV
+#EXTINF:-1 catchup="vod" tvg-chno="20" tvg-id="ITV1 South" tvg-name="ITV" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png?w=512" group-title="ITV", ITV
 plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951c000000000000007d94288c076368616e6e656c948c03495456948c0375726c944e752e
 
-#EXTINF:-1 tvg-chno="21" tvg-id="ITV2 HD" tvg-name="ITV2" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png?w=512" group-title="ITV", ITV2
+#EXTINF:-1 catchup="vod" tvg-chno="21" tvg-id="ITV2 HD" tvg-name="ITV2" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png?w=512" group-title="ITV", ITV2
 plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951d000000000000007d94288c076368616e6e656c948c0449545632948c0375726c944e752e
 
-#EXTINF:-1 tvg-chno="22" tvg-id="ITV3 HD" tvg-name="ITV3" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png?w=512" group-title="ITV", ITV3
+#EXTINF:-1 catchup="vod" tvg-chno="22" tvg-id="ITV3 HD" tvg-name="ITV3" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png?w=512" group-title="ITV", ITV3
 plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951d000000000000007d94288c076368616e6e656c948c0449545633948c0375726c944e752e
 
-#EXTINF:-1 tvg-chno="23" tvg-id="ITV4 HD" tvg-name="ITV4" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png?w=512" group-title="ITV", ITV4
+#EXTINF:-1 catchup="vod" tvg-chno="23" tvg-id="ITV4 HD" tvg-name="ITV4" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png?w=512" group-title="ITV", ITV4
 plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951d000000000000007d94288c076368616e6e656c948c0449545634948c0375726c944e752e
 
-#EXTINF:-1 tvg-chno="24" tvg-id="ITV Be HD" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/6Mul5JVrb06pRu8bNDgIAe/b5309fa32322cc3db398d25e523e2b2e/itvBe.png?w=512" tvg-name="ITVBe" group-title="ITV", ITVBe
+#EXTINF:-1 catchup="vod" tvg-chno="24" tvg-id="ITV Be HD" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/6Mul5JVrb06pRu8bNDgIAe/b5309fa32322cc3db398d25e523e2b2e/itvBe.png?w=512" tvg-name="ITVBe" group-title="ITV", ITVBe
 plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951e000000000000007d94288c076368616e6e656c948c054954564265948c0375726c944e752e
 
-#EXTINF:-1 tvg-chno="62" tvg-id="64c0d697b0cf5c000824e5d9" tvg-logo="https://images.pluto.tv/channels/64c0d697b0cf5c000824e5d9/colorLogoPNG.png" tvg-name="U&The Past" , U&The Past
+#EXTINF:-1 catchup="vod" tvg-chno="62" tvg-id="64c0d697b0cf5c000824e5d9" tvg-logo="https://images.pluto.tv/channels/64c0d697b0cf5c000824e5d9/colorLogoPNG.png" tvg-name="U&The Past" , U&The Past
 plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d697b0cf5c000824e5d9&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 tvg-chno="67" tvg-id="64c0d6f34096290008132d6b" tvg-logo="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/colorLogoPNG.png" tvg-name="U&Laughs" , U&Laughs
+#EXTINF:-1 catchup="vod" tvg-chno="67" tvg-id="64c0d6f34096290008132d6b" tvg-logo="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/colorLogoPNG.png" tvg-name="U&Laughs" , U&Laughs
 plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d6f34096290008132d6b&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 catchup="vod" tvg-chno="68" tvg-id="Alibi" tvg-name="U&Alibi" tvg-logo="https://kevwag.github.io/tv/logos/Alibi.png" group-title="U;Crime", U&Alibi
@@ -48,13 +48,13 @@ plugin://plugin.video.tvone112/play/36/89/play.pvr
 #EXTINF:-1 catchup="vod" tvg-chno="69" tvg-id="Gold" tvg-name="U&Gold" tvg-logo="https://kevwag.github.io/tv/logos/Gold.png" group-title="U", U&Gold
 plugin://plugin.video.tvone112/play/36/103/play.pvr
 
-#EXTINF:-1 tvg-chno="70" tvg-id="64c0d6765dc1660008a3e033" tvg-logo="https://images.pluto.tv/channels/64c0d6765dc1660008a3e033/colorLogoPNG.png" tvg-name="U&Transport" , U&Transport
+#EXTINF:-1 catchup="vod" tvg-chno="70" tvg-id="64c0d6765dc1660008a3e033" tvg-logo="https://images.pluto.tv/channels/64c0d6765dc1660008a3e033/colorLogoPNG.png" tvg-name="U&Transport" , U&Transport
 plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d6765dc1660008a3e033&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 tvg-chno="71" tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" tvg-name="U&Real Heroes" , U&Real Heroes
+#EXTINF:-1 catchup="vod" tvg-chno="71" tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" tvg-name="U&Real Heroes" , U&Real Heroes
 plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d6b424ade50008bc8883&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 tvg-chno="90" tvg-id="Discovery Channel" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/15/bf89f228-28fb-40e8-a79e-93c3106c5db0.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="Discovery Channel" , Discovery Channel
+#EXTINF:-1 catchup="vod" tvg-chno="90" tvg-id="Discovery Channel" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/15/bf89f228-28fb-40e8-a79e-93c3106c5db0.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="Discovery Channel" , Discovery Channel
 plugin://plugin.video.discoveryplus/play/channel/258
 
 #EXTINF:-1 catchup="vod" tvg-chno="92" tvg-id="Discovery History" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/15/8aa2cf77-4505-3ec9-9d65-190d19dca18e.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery;History" tvg-name="Discovery History" , Discovery History
