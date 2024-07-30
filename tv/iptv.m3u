@@ -81,13 +81,13 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/my5/get_live_ur
 #EXTINF:-1 catchup="vod" tvg-chno="60" tvg-id="Yesterday" tvg-name="U&Yesterday" tvg-logo="https://kevwag.github.io/tv/logos/Yesterday.png" group-title="U", U&Yesterday
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/uktvplay/get_live_url/?_pickle_=80049550000000000000007d94288c075f7469746c655f948c09596573746572646179948c08786d6c74765f6964948c113332302e747667756964652e636f2e756b948c076974656d5f6964948c0979657374657264617994752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="62" tvg-id="64c0d697b0cf5c000824e5d9" tvg-logo="https://images.pluto.tv/channels/64c0d697b0cf5c000824e5d9/colorLogoPNG.png" group-title="U" tvg-name="U&The Past" , U&The Past
+#EXTINF:-1 catchup="vod" tvg-chno="62" tvg-id="64c0d697b0cf5c000824e5d9" tvg-name="U&The Past" tvg-logo="https://images.pluto.tv/channels/64c0d697b0cf5c000824e5d9/colorLogoPNG.png" group-title="U", U&The Past
 plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d697b0cf5c000824e5d9&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 catchup="vod" tvg-chno="64" tvg-id="Dave" tvg-name="U&Dave" tvg-logo="https://kevwag.github.io/tv/logos/Dave.png" group-title="U", U&Dave
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/uktvplay/get_live_url/?_pickle_=80049546000000000000007d94288c075f7469746c655f948c0444617665948c08786d6c74765f6964948c113433322e747667756964652e636f2e756b948c076974656d5f6964948c046461766594752e
 
-#EXTINF:-1 catchup="vod" tvg-chno="67" tvg-id="64c0d6f34096290008132d6b" tvg-logo="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/colorLogoPNG.png" group-title="U" tvg-name="U&Laughs" , U&Laughs
+#EXTINF:-1 catchup="vod" tvg-chno="67" tvg-id="64c0d6f34096290008132d6b" tvg-name="U&Laughs" tvg-logo="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/colorLogoPNG.png" group-title="U", U&Laughs
 plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d6f34096290008132d6b&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 catchup="vod" tvg-chno="68" tvg-id="Alibi" tvg-name="U&Alibi" tvg-logo="https://kevwag.github.io/tv/logos/Alibi.png" group-title="U;Crime", U&Alibi
@@ -96,10 +96,10 @@ plugin://plugin.video.tvone112/play/36/89/play.pvr
 #EXTINF:-1 catchup="vod" tvg-chno="69" tvg-id="Gold" tvg-name="U&Gold" tvg-logo="https://kevwag.github.io/tv/logos/Gold.png" group-title="U", U&Gold
 plugin://plugin.video.tvone112/play/36/103/play.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="70" tvg-id="64c0d6765dc1660008a3e033" tvg-logo="https://images.pluto.tv/channels/64c0d6765dc1660008a3e033/colorLogoPNG.png" group-title="U" tvg-name="U&Transport" , U&Transport
+#EXTINF:-1 catchup="vod" tvg-chno="70" tvg-id="64c0d6765dc1660008a3e033" tvg-name="U&Transport" tvg-logo="https://images.pluto.tv/channels/64c0d6765dc1660008a3e033/colorLogoPNG.png" group-title="U", U&Transport
 plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d6765dc1660008a3e033&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 catchup="vod" tvg-chno="71" tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" group-title="U" tvg-name="U&Real Heroes" , U&Real Heroes
+#EXTINF:-1 catchup="vod" tvg-chno="71" tvg-id="64c0d6b424ade50008bc8883" tvg-name="U&Real Heroes" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" group-title="U", U&Real Heroes
 plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d6b424ade50008bc8883&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 catchup="vod" tvg-chno="72" tvg-id="Drama" tvg-name="U&Drama" tvg-logo="https://kevwag.github.io/tv/logos/Drama.png" group-title="U", U&Drama
