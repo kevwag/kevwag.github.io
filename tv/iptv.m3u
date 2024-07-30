@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTGRP:"BBC"
+#EXTGRP:"ITV"
+#EXTGRP:"All 4"
+#EXTGRP:"My5"
+#EXTGRP:"U"
+#EXTGRP:"Sky"
+#EXTGRP:"Discovery"
+#EXTGRP:"Nat Geo & History"
+#EXTGRP:"News"
+#EXTGRP:"Comedy"
+#EXTGRP:"Movies"
+#EXTGRP:"Sport"
+#EXTGRP:"USA"
+#EXTGRP:"Crime"
+#EXTGRP:"Music"
+#EXTGRP:"Misc"
+#EXTGRP:
+
 #EXTINF:-1 catchup="vod" tvg-chno="1" tvg-id="BBC One South" tvg-name="BBC One South" tvg-logo="https://kevwag.github.io/tv/logos/BBC_One_HD.png" group-title="BBC", BBC One South
 plugin://plugin.video.iplayerwww/?url=bbc_one_south&mode=203&name=BBC+One
 
