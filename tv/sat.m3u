@@ -1,13 +1,97 @@
 #EXTM3U
 
+#EXTGRP:"BBC"
+#EXTGRP:"ITV"
+#EXTGRP:"All 4"
+#EXTGRP:"My5"
+#EXTGRP:"U"
+#EXTGRP:"Sky"
+#EXTGRP:"Discovery"
+#EXTGRP:"Nat Geo & History"
+#EXTGRP:"News"
+#EXTGRP:"Comedy"
+#EXTGRP:"Movies"
+#EXTGRP:"Sport"
+#EXTGRP:"USA"
+#EXTGRP:"Crime"
+#EXTGRP:"Music"
+#EXTGRP:"Misc"
+#EXTGRP: 
+
 #EXTINF:-1 catchup="vod" tvg-chno="1" tvg-id="BBC One South" tvg-name="BBC One South" tvg-logo="https://kevwag.github.io/tv/logos/BBC_One_HD.png" group-title="BBC", BBC One South
 plugin://plugin.video.iplayerwww/?url=bbc_one_south&mode=203&name=BBC+One
+
+#EXTINF:-1 tvg-chno="20" tvg-id="ITV1 South" tvg-name="ITV" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png?w=512" group-title="ITV", ITV
+plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951c000000000000007d94288c076368616e6e656c948c03495456948c0375726c944e752e
+
+#EXTINF:-1 tvg-chno="21" tvg-id="ITV2 HD" tvg-name="ITV2" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png?w=512" group-title="ITV", ITV2
+plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951d000000000000007d94288c076368616e6e656c948c0449545632948c0375726c944e752e
+
+#EXTINF:-1 tvg-chno="22" tvg-id="ITV3 HD" tvg-name="ITV3" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png?w=512" group-title="ITV", ITV3
+plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951d000000000000007d94288c076368616e6e656c948c0449545633948c0375726c944e752e
+
+#EXTINF:-1 tvg-chno="23" tvg-id="ITV4 HD" tvg-name="ITV4" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png?w=512" group-title="ITV", ITV4
+plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951d000000000000007d94288c076368616e6e656c948c0449545634948c0375726c944e752e
+
+#EXTINF:-1 tvg-chno="24" tvg-id="ITV Be HD" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/6Mul5JVrb06pRu8bNDgIAe/b5309fa32322cc3db398d25e523e2b2e/itvBe.png?w=512" tvg-name="ITVBe" group-title="ITV", ITVBe
+plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951e000000000000007d94288c076368616e6e656c948c054954564265948c0375726c944e752e
+
+#EXTINF:-1 tvg-chno="62" tvg-id="64c0d697b0cf5c000824e5d9" tvg-logo="https://images.pluto.tv/channels/64c0d697b0cf5c000824e5d9/colorLogoPNG.png" tvg-name="U&The Past" , U&The Past
+plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d697b0cf5c000824e5d9&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 tvg-chno="67" tvg-id="64c0d6f34096290008132d6b" tvg-logo="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/colorLogoPNG.png" tvg-name="U&Laughs" , U&Laughs
+plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d6f34096290008132d6b&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 catchup="vod" tvg-chno="68" tvg-id="Alibi" tvg-name="U&Alibi" tvg-logo="https://kevwag.github.io/tv/logos/Alibi.png" group-title="U;Crime", U&Alibi
 plugin://plugin.video.tvone112/play/36/89/play.pvr
 
 #EXTINF:-1 catchup="vod" tvg-chno="69" tvg-id="Gold" tvg-name="U&Gold" tvg-logo="https://kevwag.github.io/tv/logos/Gold.png" group-title="U", U&Gold
 plugin://plugin.video.tvone112/play/36/103/play.pvr
+
+#EXTINF:-1 tvg-chno="70" tvg-id="64c0d6765dc1660008a3e033" tvg-logo="https://images.pluto.tv/channels/64c0d6765dc1660008a3e033/colorLogoPNG.png" tvg-name="U&Transport" , U&Transport
+plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d6765dc1660008a3e033&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 tvg-chno="71" tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" tvg-name="U&Real Heroes" , U&Real Heroes
+plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d6b424ade50008bc8883&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 tvg-chno="90" tvg-id="Discovery Channel" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/15/bf89f228-28fb-40e8-a79e-93c3106c5db0.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="Discovery Channel" , Discovery Channel
+plugin://plugin.video.discoveryplus/play/channel/258
+
+#EXTINF:-1 catchup="vod" tvg-chno="92" tvg-id="Discovery History" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/15/8aa2cf77-4505-3ec9-9d65-190d19dca18e.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery;History" tvg-name="Discovery History" , Discovery History
+plugin://plugin.video.discoveryplus/play/channel/265
+
+#EXTINF:-1 catchup="vod" tvg-chno="94" tvg-id="Discovery Science" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/14/dd568af2-666f-36ed-b51a-aa053daa7021.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="Discovery Science" , Discovery Science
+plugin://plugin.video.discoveryplus/play/channel/261
+
+#EXTINF:-1 catchup="vod" tvg-chno="96" tvg-id="Discovery Turbo" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/15/ab8694f1-226f-366f-b165-1a370bb76247.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="Discovery Turbo" , Discovery Turbo
+plugin://plugin.video.discoveryplus/play/channel/271
+
+#EXTINF:-1 catchup="vod" tvg-chno="98" tvg-id="DMAX" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/08/08/20bc444d-9ed4-30df-a312-4f8605f48cb2.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="DMAX" , DMAX
+plugin://plugin.video.discoveryplus/play/channel/263
+
+#EXTINF:-1 catchup="vod" tvg-chno="105" tvg-id="Quest Red" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/15/ed1845cf-e004-3649-a2f3-de7a2f8cc1cc.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery;Crime" tvg-name="Quest Red" , Quest Red
+plugin://plugin.video.discoveryplus/play/channel/269
+
+#EXTINF:-1 catchup="vod" tvg-chno="107" tvg-id="Investigation Discovery" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/15/2d406646-adfe-3e01-8774-76ac60c881b7.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery;Crime" tvg-name="ID" , ID
+plugin://plugin.video.discoveryplus/play/channel/267
+
+#EXTINF:-1 catchup="vod" tvg-chno="108" tvg-id="Really" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/14/b9cd7768-c5da-3e5b-a786-135351635ca4.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="Really" , Really
+plugin://plugin.video.discoveryplus/play/channel/260
+
+#EXTINF:-1 catchup="vod" tvg-chno="111" tvg-id="TLC" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/08/03/229f4162-b659-3b1b-b039-7714e0fc0c36.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="TLC" , TLC
+plugin://plugin.video.discoveryplus/play/channel/270
+
+#EXTINF:-1 catchup="vod" tvg-chno="113" tvg-id="Animal Planet" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/14/cba94780-4405-3d46-bf8c-f7f062526e48.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="Animal Planet" , Animal Planet
+plugin://plugin.video.discoveryplus/play/channel/259
+
+#EXTINF:-1 catchup="vod" tvg-chno="114" tvg-id="Animal Planet +1" tvg-logo="https://kevwag.github.io/tv/logos/Animal_Planet+1.png" group-title="Discovery" tvg-name="Animal Planet +1" , Animal Planet +1
+plugin://plugin.video.tvone111/play/1029/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="115" tvg-id="HGTV" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/15/5c086559-2c31-391c-9750-4abad116a80b.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="HGTV" , HGTV
+plugin://plugin.video.discoveryplus/play/channel/266
+
+#EXTINF:-1 catchup="vod" tvg-chno="120" tvg-id="Food Network" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/14/67fb62f5-d7fe-3d46-93cf-b516f1d91c83.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="Food Network" , Food Network
+plugin://plugin.video.discoveryplus/play/channel/264
 
 #EXTINF:-1 catchup="vod" tvg-chno="114" tvg-id="Animal Planet +1" tvg-name="Animal Planet +1" tvg-logo="https://kevwag.github.io/tv/logos/Animal_Planet+1.png" group-title="Discovery", Animal Planet +1
 plugin://plugin.video.tvone111/play/1029/play.pvr
@@ -146,3 +230,21 @@ plugin://plugin.video.tvone112/play/38/246/play.pvr
 
 #EXTINF:-1 catchup="vod" tvg-chno="984" tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://kevwag.github.io/tv/logos/Eurosport_2.png" group-title="Sky;Sports", Eurosport 2
 plugin://plugin.video.tvone112/play/38/247/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="995" tvg-id="Eurosport 1" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2022/06/28/d20785af-5ec0-44ea-9365-85bd2c4cc514.png?bf=0&f=png&p=true&q=60&w=700" tvg-name="EUROSPORT 1" , EUROSPORT 1
+plugin://plugin.video.discoveryplus/play/channel/636
+
+#EXTINF:-1 catchup="vod" tvg-chno="996" tvg-id="Eurosport 2" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2022/03/11/907f59ca-df02-47ce-82c0-bef2ef7e0b03.png?bf=0&f=png&p=true&q=60&w=700" tvg-name="EUROSPORT 2" , EUROSPORT 2
+plugin://plugin.video.discoveryplus/play/channel/651
+
+#EXTINF:-1 catchup="vod" tvg-chno="997" tvg-id="TNT Sports 1" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/05/05/8e999711-3366-40c1-afc1-9e66f67cee1c.png?bf=0&f=png&p=true&q=60&w=700" tvg-name="TNT Sports 1" , TNT Sports 1
+plugin://plugin.video.discoveryplus/play/channel/933
+
+#EXTINF:-1 catchup="vod" tvg-chno="998" tvg-id="TNT Sports 2" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/05/05/8e8b5ce3-3622-449c-bc24-dd581af68b89.png?bf=0&f=png&p=true&q=60&w=700" tvg-name="TNT Sports 2" , TNT Sports 2
+plugin://plugin.video.discoveryplus/play/channel/934
+
+#EXTINF:-1 catchup="vod" tvg-chno="999" tvg-id="TNT Sports 3" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/05/05/663f8045-8269-4bd8-9b78-4b321b2d291f.png?bf=0&f=png&p=true&q=60&w=700" tvg-name="TNT Sports 3" , TNT Sports 3
+plugin://plugin.video.discoveryplus/play/channel/935
+
+#EXTINF:-1 catchup="vod" tvg-chno="1000" tvg-id="TNT Sports 4" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/05/05/0e6e5ad7-6724-4d65-8f2d-ca8596492a0e.png?bf=0&f=png&p=true&q=60&w=700" tvg-name="TNT Sports 4" , TNT Sports 4
+plugin://plugin.video.discoveryplus/play/channel/936
