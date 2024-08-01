@@ -19,6 +19,9 @@
 #EXTGRP: 
 
 #EXTINF:-1 catchup="vod" tvg-chno="1" tvg-id="BBC One South" tvg-name="BBC One South" tvg-logo="https://kevwag.github.io/tv/logos/BBC_One_HD.png" group-title="BBC", BBC One South
+plugin://plugin.video.iplayerwww/?url=bbc_one_south&mode=203&name=BBC+One 
+
+#EXTINF:-1 catchup="vod" tvg-chno="5" tvg-id="BBC One South" tvg-name="BBC One South" tvg-logo="https://kevwag.github.io/tv/logos/BBC_One_HD.png" group-title="BBC", BBC One South
 plugin://plugin.video.iplayerwww/?url=bbc_one_south&mode=203&name=BBC+One
 
 #EXTINF:-1 catchup="vod" tvg-chno="20" tvg-id="ITV1 South" tvg-name="ITV" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png?w=512" group-title="ITV", ITV
