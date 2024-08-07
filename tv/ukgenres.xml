@@ -146,5 +146,4 @@ If you have changes either create a PR containing the changes or an issue with d
 
   <!-- USERDEFINED -->
   <genre genreId="0xF1">Factual Crime</genre> <!-- 0xF1 Detective/Thriller -->
-  <name>Kodi DVB Genres using Integers for type and subtype</name>
 </genres>
