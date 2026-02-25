@@ -1,0 +1,295 @@
+#EXTM3U
+
+#EXTGRP:"BBC"
+#EXTGRP:"ITV"
+#EXTGRP:"All 4"
+#EXTGRP:"5"
+#EXTGRP:"U"
+#EXTGRP:"Discovery"
+#EXTGRP:"Nat Geo & History"
+#EXTGRP:"Sky"
+#EXTGRP:"News"
+#EXTGRP:"Comedy"
+#EXTGRP:"Sport"
+#EXTGRP:"Movies"
+#EXTGRP:"USA"
+#EXTGRP:"Canada"
+#EXTGRP:"Crime"
+#EXTGRP:"Music"
+#EXTGRP:"Misc"
+
+#EXTINF:-1 catchup="vod" tvg-chno="5" tvg-id="BBC News Channel" tvg-name="BBC News" tvg-logo="https://kevwag.github.io/tv/logos/BBC_News_HD.png" group-title="BBC;News", BBC News
+plugin://plugin.video.iplayerwww/?url=bbc_news24&mode=203&name=BBC+News+Channel
+
+#EXTINF:-1 catchup="vod" tvg-chno="5" tvg-id="BBC News Channel" tvg-name="BBC News" tvg-logo="https://kevwag.github.io/tv/logos/BBC_News_HD.png" group-title="BBC;News", BBC News
+plugin://plugin.video.iplayerwww/?url=bbc_news24&mode=203&name=BBC+News+Channel
+
+#EXTINF:-1 catchup="vod" tvg-chno="7" tvg-id="BBC One South" tvg-name="BBC One South" tvg-logo="https://kevwag.github.io/tv/logos/BBC_One_HD.png" group-title="BBC", BBC One South
+plugin://plugin.video.iplayerwww/?url=bbc_one_south&mode=203&name=BBC+One
+
+#EXTINF:-1 catchup="vod" tvg-chno="8" tvg-id="BBC Two" tvg-name="BBC Two" tvg-logo="https://kevwag.github.io/tv/logos/BBC_Two_HD.png" group-title="BBC", BBC Two
+plugin://plugin.video.iplayerwww/?url=bbc_two_england&mode=203&name=BBC+Two
+
+#EXTINF:-1 catchup="vod" tvg-chno="9" tvg-id="BBC Three" tvg-name="BBC Three" tvg-logo="https://kevwag.github.io/tv/logos/BBC_Three_HD.png" group-title="BBC", BBC Three
+plugin://plugin.video.iplayerwww/?url=bbc_three_hd&mode=203&name=BBC+Three
+
+#EXTINF:-1 catchup="vod" tvg-chno="10" tvg-id="BBC Four" tvg-name="BBC Four" tvg-logo="https://kevwag.github.io/tv/logos/BBC_Four_HD.png" group-title="BBC", BBC Four
+plugin://plugin.video.iplayerwww/?url=bbc_four_hd&mode=203&name=BBC+Four
+
+#EXTINF:-1 catchup="vod" tvg-chno="20" tvg-id="ITV1 South" tvg-name="ITV" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png?w=512" group-title="ITV", ITV
+plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951c000000000000007d94288c076368616e6e656c948c03495456948c0375726c944e752e
+
+#EXTINF:-1 catchup="vod" tvg-chno="21" tvg-id="ITV2" tvg-name="ITV2" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png?w=512" group-title="ITV", ITV2
+plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951d000000000000007d94288c076368616e6e656c948c0449545632948c0375726c944e752e
+
+#EXTINF:-1 catchup="vod" tvg-chno="22" tvg-id="ITV3 HD" tvg-name="ITV3" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png?w=512" group-title="ITV", ITV3
+plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951d000000000000007d94288c076368616e6e656c948c0449545633948c0375726c944e752e
+
+#EXTINF:-1 catchup="vod" tvg-chno="23" tvg-id="ITV4 HD" tvg-name="ITV4" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png?w=512" group-title="ITV", ITV4
+plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951d000000000000007d94288c076368616e6e656c948c0449545634948c0375726c944e752e
+
+#EXTINF:-1 catchup="vod" tvg-chno="24" tvg-id="ITV Be HD" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/6Mul5JVrb06pRu8bNDgIAe/b5309fa32322cc3db398d25e523e2b2e/itvBe.png?w=512" tvg-name="ITVBe" group-title="ITV", ITVBe
+plugin://plugin.video.viwx/resources/lib/main/play_stream_live/?_pickle_=8004951e000000000000007d94288c076368616e6e656c948c054954564265948c0375726c944e752e
+
+#EXTINF:-1 catchup="vod" tvg-chno="62" tvg-id="64c0d697b0cf5c000824e5d9" tvg-logo="https://images.pluto.tv/channels/64c0d697b0cf5c000824e5d9/colorLogoPNG.png" group-title="U" tvg-name="U&The Past" , U&The Past
+plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d697b0cf5c000824e5d9&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="67" tvg-id="64c0d6f34096290008132d6b" tvg-logo="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/colorLogoPNG.png" group-title="U" tvg-name="U&Laughs" , U&Laughs
+plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d6f34096290008132d6b&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="68" tvg-id="Alibi" tvg-name="U&Alibi" tvg-logo="https://kevwag.github.io/tv/logos/Alibi.png" group-title="U;Crime", U&Alibi
+plugin://plugin.video.tvone112/play/36/89/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="69" tvg-id="Gold" tvg-name="U&Gold" tvg-logo="https://kevwag.github.io/tv/logos/Gold.png" group-title="U", U&Gold
+plugin://plugin.video.tvone112/play/36/103/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="70" tvg-id="64c0d6765dc1660008a3e033" tvg-logo="https://images.pluto.tv/channels/64c0d6765dc1660008a3e033/colorLogoPNG.png" group-title="U" tvg-name="U&Transport" , U&Transport
+plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d6765dc1660008a3e033&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="71" tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" group-title="U" tvg-name="U&Real Heroes" , U&Real Heroes
+plugin://slyguy.pluto.tv.provider/?_=play&id=64c0d6b424ade50008bc8883&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="90" tvg-id="Discovery Channel" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/15/bf89f228-28fb-40e8-a79e-93c3106c5db0.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="Discovery Channel" , Discovery Channel
+plugin://plugin.video.tvone/play/91/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="92" tvg-id="Discovery History" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/15/8aa2cf77-4505-3ec9-9d65-190d19dca18e.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery;History" tvg-name="Discovery History" , Discovery History
+plugin://plugin.video.tvone1112/play/264/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="94" tvg-id="Discovery Science" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/14/dd568af2-666f-36ed-b51a-aa053daa7021.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="Discovery Science" , Discovery Science
+plugin://plugin.video.tvone1112/play/265/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="96" tvg-id="Discovery Turbo" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/15/ab8694f1-226f-366f-b165-1a370bb76247.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="Discovery Turbo" , Discovery Turbo
+plugin://plugin.video.tvone1112/play/1298/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="107" tvg-id="Investigation Discovery" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/15/2d406646-adfe-3e01-8774-76ac60c881b7.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery;Crime" tvg-name="ID" , ID
+plugin://plugin.video.tvone1112/play/1361/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="113" tvg-id="Animal Planet" tvg-logo="http://127.0.0.1:48201/https://eu1-prod-images.disco-api.com/2023/06/14/cba94780-4405-3d46-bf8c-f7f062526e48.png?bf=0&f=png&p=true&q=60&w=700" group-title="Discovery" tvg-name="Animal Planet" , Animal Planet
+plugin://plugin.video.tvone1112/play/149/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="114" tvg-id="Animal Planet +1" tvg-logo="https://kevwag.github.io/tv/logos/Animal_Planet+1.png" group-title="Discovery" tvg-name="Animal Planet +1" , Animal Planet +1
+plugin://plugin.video.tvone111/play/1029/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="114" tvg-id="Animal Planet +1" tvg-name="Animal Planet +1" tvg-logo="https://kevwag.github.io/tv/logos/Animal_Planet+1.png" group-title="Discovery", Animal Planet +1
+plugin://plugin.video.tvone111/play/1029/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="126" tvg-id="Travelxp" tvg-name="Travelxp" tvg-logo="https://kevwag.github.io/tv/logos/Travel_Channel.png" group-title="Discovery", Travelxp
+plugin://plugin.video.tvone112/play/36/136/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="130" tvg-id="National Geographic UK" tvg-name="Nat Geo (UK)" tvg-logo="https://kevwag.github.io/tv/logos/National_Geographic_HD.png" group-title="Nat Geo & History", Nat Geo (UK)
+plugin://plugin.video.tvone/play/155/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="132" tvg-id="National Geographic WILD UK" tvg-name="Nat Geo WILD (UK)" tvg-logo="https://kevwag.github.io/tv/logos/National_Geographic_WILD.png" group-title="Nat Geo & History", Nat Geo WILD (UK)
+plugin://plugin.video.tvone/play/157/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="134" tvg-id="National Geographic USA" tvg-name="Nat Geo (USA)" tvg-logo="https://kevwag.github.io/tv/logos/National_Geographic_HD.png" group-title="Nat Geo & History;USA", Nat Geo (USA)
+plugin://plugin.video.tvone/play/158/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="136" tvg-id="National Geographic Wild USA" tvg-name="Nat Geo WILD (USA)" tvg-logo="https://kevwag.github.io/tv/logos/National_Geographic_WILD.png" group-title="Nat Geo & History;USA", Nat Geo WILD (USA)
+plugin://plugin.video.tvone/play/486/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="150" tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Atlantic.png" group-title="Sky", Sky Atlantic
+plugin://plugin.video.tvone/play/192/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="152" tvg-id="History" tvg-name="Sky History" tvg-logo="https://kevwag.github.io/tv/logos/Sky_History_HD.png" group-title="Sky;Nat Geo & History", Sky History
+http://zx.mtfxg.xyz:8081/uk/ukhistory/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNDowNjo1NyBBTSZoYXNoX3ZhbHVlPUc5WkYya0l1bnZSNjFDM2Fpc1haS2c9PSZ2YWxpZG1pbnV0ZXM9Mg==|User-Agent=Lavf%2F57.83.100&connection=keep-alive
+
+#EXTINF:-1 catchup="vod" tvg-chno="154" tvg-id="Sky History 2" tvg-name="Sky History 2" tvg-logo="https://kevwag.github.io/tv/logos/Sky_History_HD.png" group-title="Sky;Nat Geo & History", Sky History 2
+plugin://plugin.video.tvone/play/726/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="156" tvg-id="Sky Max" tvg-name="Sky Max" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Max.png" group-title="Sky", Sky Max
+plugin://plugin.video.tvone111/play/1350/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="158" tvg-id="Sky News" tvg-name="Sky News" tvg-logo="http://https://kevwag.github.io/tv/logos/Sky_News.png" group-title="Sky;News", Sky News
+plugin://plugin.video.tvone111/play/1081/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="159" tvg-id="Sky Replay" tvg-name="Sky Replay" tvg-logo="https://kevwag.github.io/tv/logos/Sky.png" group-title="Sky", Sky Replay
+plugin://plugin.video.tvone111/play/1351/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="170" tvg-id="Sky Cinema Premiere" tvg-name="Sky Cinema Premiere" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesPremiere.png" group-title="Sky;Movies", Sky Cinema Premiere
+plugin://plugin.video.tvone111/play/1343/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="172" tvg-id="Sky Cinema Action" tvg-name="Sky Cinema Action" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesAction.png" group-title="Sky;Movies", Sky Cinema Action
+plugin://plugin.video.tvone111/play/1344/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="174" tvg-id="Sky Cinema Comedy" tvg-name="Sky Cinema Comedy" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesComedy.png" group-title="Sky;Movies", Sky Cinema Comedy
+plugin://plugin.video.tvone111/play/1345/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="176" tvg-id="Sky Cinema Family" tvg-name="Sky Cinema Family" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesFamily.png" group-title="Sky;Movies", Sky Cinema Family
+plugin://plugin.video.tvone111/play/1346/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="178" tvg-id="Sky Cinema Greats" tvg-name="Sky Cinema Greats" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesGreats.png" group-title="Sky;Movies", Sky Cinema Greats
+plugin://plugin.video.tvone111/play/1349/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="180" tvg-id="Sky Cinema SciFi" tvg-name="Sky Cinema Sci-FI & Horror" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesSciFi.png" group-title="Sky;Movies", Sky Cinema Sci-FI & Horror
+plugin://plugin.video.tvone111/play/1347/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="182" tvg-id="Sky Cinema Select" tvg-name="Sky Cinema Select" tvg-logo="https://kevwag.github.io/tv/logos/Sky.png" group-title="Sky;Movies", Sky Cinema Select
+plugin://plugin.video.tvone/play/254/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="184" tvg-id="Sky Cinema Thriller" tvg-name="Sky Cinema Thriller" tvg-logo="https://kevwag.github.io/tv/logos/SkyMoviesThriller.png" group-title="Sky;Movies", Sky Cinema Thriller
+plugin://plugin.video.tvone111/play/1348/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="208" tvg-id="FX USA" tvg-name="FX (USA)" tvg-logo="https://kevwag.github.io/tv/logos/FX.png" group-title="Movies;USA", FX (USA)
+plugin://plugin.video.tvone/play/123/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="209" tvg-id="FXX USA" tvg-name="FXX (USA)" tvg-logo="https://kevwag.github.io/tv/logos/FXX.png" group-title="Comedy;USA", FXX (USA)
+plugin://plugin.video.tvone111/play/1287/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="212" tvg-id="Comedy Central USA" tvg-name="Comedy Central (USA)" tvg-logo="https://kevwag.github.io/tv/logos/Comedy_Central.png" group-title="Comedy;USA", Comedy Central (USA)
+plugin://plugin.video.tvone1112/play/267/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="213" tvg-id="Comedy Central UK" tvg-name="Comedy Central (UK)" tvg-logo="https://kevwag.github.io/tv/logos/Comedy_Central.png" group-title="Comedy", Comedy Central (UK)
+plugin://plugin.video.tvone111/play/1316/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="214" tvg-id="Comedy Central Extra UK" tvg-name="Comedy Central Extra (UK)" tvg-logo="https://kevwag.github.io/tv/logos/Comedy_Central_Extra.png" group-title="Comedy", Comedy Central Extra (UK)
+plugin://plugin.video.tvone/play/647/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="215" tvg-id="Comedy Central Extra UK" tvg-name="Comedy Central Extra (UK) Alt" tvg-logo="https://kevwag.github.io/tv/logos/Comedy_Central_Extra.png" group-title="Comedy", Comedy Central Extra (UK) Alt
+plugin://plugin.video.tvone111/play/2155/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="216" tvg-id="Cartoon Network USA" tvg-name="[adult swim] Cartoon Network (USA)" tvg-logo="https://kevwag.github.io/tv/logos/CartoonNetwrk.png" group-title="Comedy", [adult swim] Cartoon Network (USA)
+plugin://plugin.video.tvone1112/play/1960/play.pvr
+
+#EXTINF:-1 tvg-chno="217" tvg-id="62bdb1c5e25122000798ac79" tvg-logo="https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png" tvg-name="South Park" group-title="Comedy" , South Park
+plugin://slyguy.pluto.tv.provider/?_=play&id=62bdb1c5e25122000798ac79&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 tvg-chno="218" tvg-id="65df4934f7f0af0008c32545" tvg-logo="https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png" tvg-name="South Park: Cartman Collection" group-title="Comedy" , South Park: Cartman Collection
+plugin://slyguy.pluto.tv.provider/?_=play&id=65df4934f7f0af0008c32545&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 tvg-chno="219" tvg-id="65df47f428730900089f83ac" tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png" tvg-name="South Park: Kenny Collection" group-title="Comedy" , South Park: Kenny Collection
+plugin://slyguy.pluto.tv.provider/?_=play&id=65df47f428730900089f83ac&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 tvg-chno="220" tvg-id="65df49b30d45610008172c5b" tvg-logo="https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoPNG.png" tvg-name="South Park: Kyle Collection" group-title="Comedy" , South Park: Kyle Collection
+plugin://slyguy.pluto.tv.provider/?_=play&id=65df49b30d45610008172c5b&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 tvg-chno="221" tvg-id="65df48ba28730900089f8480" tvg-logo="https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoPNG.png" tvg-name="South Park: Stan Collection" group-title="Comedy" , South Park: Stan Collection
+plugin://slyguy.pluto.tv.provider/?_=play&id=65df48ba28730900089f8480&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="222" tvg-id="HBO USA" tvg-name="HBO (USA)" tvg-logo="https://kevwag.github.io/tv/logos/HBO.png" group-title="USA", HBO (USA)
+plugin://plugin.video.tvone112/play/36/1642/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="223" tvg-id="USA Network" tvg-name="USA Network" tvg-logo="https://kevwag.github.io/tv/logos/USA.png" group-title="USA", USA Network
+plugin://plugin.video.tvone1112/play/362/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="224" tvg-id="AMC USA" tvg-name="AMC (USA)" tvg-logo="https://kevwag.github.io/tv/logos/AMC.png" group-title="USA", AMC (USA)
+plugin://plugin.video.tvone/play/496/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="225" tvg-id="Paramount Network USA" tvg-name="Paramnt Ntwk (USA)" tvg-logo="https://kevwag.github.io/tv/logos/Paramount_Network.png" group-title="USA", Paramnt Ntwk (USA)
+plugin://plugin.video.tvone/play/677/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="226" tvg-id="Crime + Investigation UK" tvg-name="Crime Investigation (UK)" tvg-logo="https://kevwag.github.io/tv/logos/Crime_Investigation.png" group-title="Crime", Crime Investigation (UK)
+plugin://plugin.video.tvone/play/623/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="841" tvg-id="MSNBC USA" tvg-name="MSNBC (USA)" tvg-logo="https://kevwag.github.io/tv/logos/MSNBC.png" group-title="USA;News", MSNBC (USA)
+plugin://plugin.video.tvone112/play/78/1425/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="952" tvg-id="Sky Sports F1" tvg-name="Sky Sports F1 HD" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports_F1.png" group-title="Sky;Sport", Sky Sports F1 HD
+plugin://plugin.video.tvone111/play/1182/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="953" tvg-id="Sky Sports F1" tvg-name="Sky Sports F1" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports_F1.png" group-title="Sky;Sport", Sky Sports F1
+plugin://plugin.video.tvone/play_sp/209/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="954" tvg-id="Sky Sports F1" tvg-name="Sky Sports F1 Alt" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports_F1.png" group-title="Sky;Sport", Sky Sports F1 Alt
+plugin://plugin.video.tvone111/play/1069/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="956" tvg-id="Sky Sports Main Event" tvg-name="Sky Sports Main Event" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports.png" group-title="Sky;Sport", Sky Sports Main Event
+plugin://plugin.video.tvone/play_sp/204/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="957" tvg-id="Sky Sports Main Event" tvg-name="Sky Sports Main Event Alt" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports.png" group-title="Sky;Sport", Sky Sports Main Event Alt
+plugin://plugin.video.tvone111/play/1056/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="958" tvg-id="Sky Sports Premiere League" tvg-name="Sky Sports Premiere League" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports.png" group-title="Sky;Sport", Sky Sports Premiere League
+plugin://plugin.video.tvone/play_sp/208/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="959" tvg-id="Sky Sports Premiere League" tvg-name="Sky Sports Premiere League Alt" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports.png" group-title="Sky;Sport", Sky Sports Premiere League Alt
+plugin://plugin.video.tvone111/play/1064/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="960" tvg-id="Sky Sports Football" tvg-name="Sky Sports Football" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports.png" group-title="Sky;Sport", Sky Sports Football
+plugin://plugin.video.tvone/play_sp/410/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="961" tvg-id="Sky Sports Football" tvg-name="Sky Sports Football Alt" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports.png" group-title="Sky;Sport", Sky Sports Football Alt
+plugin://plugin.video.tvone111/play/1067/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="964" tvg-id="Sky Sports +" tvg-name="Sky Sports +" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports.png" group-title="Sky;Sport", Sky Sports +
+plugin://plugin.video.tvone/play_sp/411/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="965" tvg-id="Sky Sports Mix" tvg-name="Sky Sports Mix" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports.png" group-title="Sky;Sport", Sky Sports Mix
+plugin://plugin.video.tvone/play_sp/308/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="968" tvg-id="Sky Sports Action" tvg-name="Sky Sports Action" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports.png" group-title="Sky;Sport", Sky Sports Action
+plugin://plugin.video.tvone/play_sp/881/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="970" tvg-id="Sky Sports NFL" tvg-name="Sky Sports NFL" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports.png" group-title="Sky;Sport", Sky Sports NFL
+plugin://plugin.video.tvone/play_sp/206/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="971" tvg-id="Sky Sports Golf" tvg-name="Sky Sports Golf" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports.png" group-title="Sky;Sport", Sky Sports Golf
+plugin://plugin.video.tvone/play_sp/207/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="972" tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports.png" group-title="Sky;Sport", Sky Sports Cricket
+plugin://plugin.video.tvone/play_sp/205/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="973" tvg-id="Sky Sports News" tvg-name="Sky Sports News" tvg-logo="https://kevwag.github.io/tv/logos/Sky_Sports_News.png" group-title="Sky;Sport", Sky Sports News
+plugin://plugin.video.tvone/play_sp/210/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="974" tvg-id="TNT Sports 1" tvg-name="TNT Sports 1" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports1.png" group-title="Sport", TNT Sports 1 
+plugin://plugin.video.tvone/play_sp/59/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="975" tvg-id="TNT Sports 1" tvg-name="TNT Sports 1 Alt" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports1.png" group-title="Sport", TNT Sports 1 Alt 
+plugin://plugin.video.tvone1112/play/111/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="976" tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports2.png" group-title="Sport", TNT Sports 2
+plugin://plugin.video.tvone/play_sp/60/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="977" tvg-id="TNT Sports 2" tvg-name="TNT Sports 2 Alt" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports2.png" group-title="Sport", TNT Sports 2 Alt 
+plugin://plugin.video.tvone1112/play/112/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="978" tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports3.png" group-title="Sport", TNT Sports 3 
+plugin://plugin.video.tvone/play_sp/298/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="979" tvg-id="TNT Sports 3" tvg-name="TNT Sports 3 Alt" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports3.png" group-title="Sport", TNT Sports 3 Alt 
+plugin://plugin.video.tvone1112/play/526/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="980" tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports4.png" group-title="Sport", TNT Sports 4 
+plugin://plugin.video.tvone/play_sp/280/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="981" tvg-id="TNT Sports 4" tvg-name="TNT Sports 4 Alt" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports4.png" group-title="Sport", TNT Sports 4 Alt 
+plugin://plugin.video.tvone1112/play/253/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="982" tvg-id="TNT Sports 5" tvg-name="TNT Sports 5" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports5.png" group-title="Sport", TNT Sports 5 
+plugin://plugin.video.tvone/play_sp/281/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="984" tvg-id="TNT Sports 6" tvg-name="TNT Sports 6" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports6.png" group-title="Sport", TNT Sports 6 
+plugin://plugin.video.tvone/play_sp/282/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="986" tvg-id="TNT Sports 7" tvg-name="TNT Sports 7" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports7.png" group-title="Sport", TNT Sports 7
+plugin://plugin.video.tvone/play_sp/283/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="988" tvg-id="TNT Sports 8" tvg-name="TNT Sports 8" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports8.png" group-title="Sport", TNT Sports 8
+plugin://plugin.video.tvone/play_sp/284/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="990" tvg-id="TNT Sports 9" tvg-name="TNT Sports 9" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports9.png" group-title="Sport", TNT Sports 9 
+plugin://plugin.video.tvone/play_sp/1091/play.pvr
+
+#EXTINF:-1 catchup="vod" tvg-chno="992" tvg-id="TNT Sports 10" tvg-name="TNT Sports 10" tvg-logo="https://kevwag.github.io/tv/logos/TNTSports10.png" group-title="Sport", TNT Sports 10 
+plugin://plugin.video.tvone/play_sp/1092/play.pvr

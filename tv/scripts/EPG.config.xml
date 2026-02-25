@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tempest EPG Generator (made by Kvanc) -->
+<configuration>
+  <filename>epg.xml</filename>
+  <user-agent/>
+  <logger>off</logger>
+  <retry>2</retry>
+  <time-out>30</time-out>
+  <timespan>6</timespan>
+  <proxy/>
+  <index-only>off</index-only>
+  <fusion>on</fusion>
+  <fusion-level>0</fusion-level>
+  <time-converter/>
+  <delay channel="" index="" detail=""/>
+  <channel-lister>off</channel-lister>
+  <inverter>off</inverter>
+  <inverter-filename/>
+  <inverter-path/>
+  <synchrotron>off</synchrotron>
+  <sync-node>5</sync-node>
+  <sync-channel>0</sync-channel>
+  <filler-show>off</filler-show>
+  <fill-on-fail>off</fill-on-fail>
+  <filler-length>120</filler-length>
+  <filler-title/>
+  <filler-desc/>
+  <filler-icon/>
+  <logname/>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3011" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|bbc-one-south||bbc-one-south-l.webp__NW1" xmltv_id="BBC One South">BBC One South</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3000" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|bbc-one-london||bbc-one-london-l.webp__NW1" xmltv_id="BBC One Lon HD">BBC One Lon HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3014" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|bbc-one-south-west||bbc-one-south-west-l.webp__NW1" xmltv_id="BBC One SW HD">BBC One SW HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3008" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|bbc-one-south-east||bbc-one-south-east-l.webp__NW1" xmltv_id="BBC One SE HD">BBC One SE HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2075" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|bbc-two-hd||bbc-two-hd-l.webp__NW1" xmltv_id="BBC Two">BBC Two</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2080" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|bbc-three-hd||bbc-three-hd-l.webp__NW1" xmltv_id="BBC Three">BBC Three</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2086" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|bbc-four-hd||bbc-four-hd-l.webp__NW1" xmltv_id="BBC Four">BBC Four</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2085" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|bbc-news||bbc-news-l.webp__NW1" xmltv_id="BBC News Channel">BBC News Channel</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3020" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|bbc-parliament||bbc-parliament-l.webp__NW1" xmltv_id="BBC Parliament">BBC Parliament</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2053" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|bbc-red-button-1||bbc-red-button-1-l.webp__NW1" xmltv_id="BBC Red Button">BBC Red Button</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|6502" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|itv-meridian-south-hd||itv-meridan-south-hd-l.webp__NW1" xmltv_id="ITV1 South">ITV1 South</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|6155" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|itv1-1||itv-1-l.webp__NW1" xmltv_id="ITV1 +1 Meridian">ITV1 +1 Meridian</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|6532" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|itv2||itv2-l.webp__NW1" xmltv_id="ITV2">ITV2</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|6241" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|itv2-1||itv2-1-l.webp__NW1" xmltv_id="ITV2 +1">ITV2 +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|6533" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|itv3||itv3-l.webp__NW1" xmltv_id="ITV3 HD">ITV3 HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|6261" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|itv3-1||itv3-1-l.webp__NW1" xmltv_id="ITV3 +1">ITV3 +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|6534" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|itv4||itv4-l.webp__NW1" xmltv_id="ITV4 HD">ITV4 HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|6274" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|itv4-1||itv4-1-l.webp__NW1" xmltv_id="ITV4 +1">ITV4 +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3026" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|itv-be||itv-be-l.webp__NW1" xmltv_id="ITV Be HD">ITV Be HD</channel>
+  <channel site="[ENC]player.bt.com_0" site_id="dvb%3A%2F%2F233a..3df8||93535f6c-fe7c-515f-aa93-42530392b6d7" cyclone_site="[ENC]player.ee.co.uk_0" cyclone_id="dvb%3A%2F%2F233a..3df8||93535f6c-fe7c-515f-aa93-42530392b6d7" xmltv_id="ITVBe +1">ITVBe +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1202" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|channel-4-hd||channel-4-hd-l.webp__NW1" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1671" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|channel-4-1-1||channel-4-1-1-l.webp__NW1" xmltv_id="Channel 4 +1">Channel 4 +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4043" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|more-4||more-4-l.webp__NW1" xmltv_id="More 4">More 4</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3310" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|more4-1||more4-1-l.webp__NW1" xmltv_id="More4 +1">More4 +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4076" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|e4||e4-l.webp__NW1" xmltv_id="E4">E4</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1628" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|e4||e4-l.webp__NW1" xmltv_id="E4 HD">E4 HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3300" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|e4-1||e4-1-l.webp__NW1" xmltv_id="E4+1">E4+1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1758" xmltv_id="E4 Extra">E4 Extra</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3150" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|4seven||4seven-l.webp__NW1" xmltv_id="4seven">4seven</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4044" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|film4||film4-l.webp__NW1" xmltv_id="Film4">Film4</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1627" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|film4||film4-l.webp__NW1" xmltv_id="Film4 HD">Film4 HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1629" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|film4-1||film4-1-l.webp__NW1" xmltv_id="Film4+1">Film4+1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4058" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|channel-5||channel-5-l.webp__NW1" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1839" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|channel-5-1||channel-5-1-l.webp__NW1" xmltv_id="Channel 5 +1">Channel 5 +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3022" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|5usa||5usa-l.webp__NW1" xmltv_id="5USA">5USA</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3027" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|5usa-1||5usa-1-l.webp__NW1" xmltv_id="5USA +1">5USA +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3023" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|5-star||5-star-l.webp__NW1" xmltv_id="5STAR">5STAR</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3024" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|5-star-1||5-star-1-l.webp__NW1" xmltv_id="5STAR +1">5STAR +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3028" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|5select||5select-l.webp__NW1" xmltv_id="5SELECT">5SELECT</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1036" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|5-action-1||paramount-network-l.webp__NW1" xmltv_id="5ACTION">5ACTION</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2303" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|alibi||alibi-l.webp__NW1" xmltv_id="Alibi">Alibi</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2304" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|gold-hd||gold-hd-l.webp__NW1" xmltv_id="Gold">Gold</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2306" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|dave||dave-l.webp__NW1" xmltv_id="Dave">Dave</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2320" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|dave-ja-vu||dave-ja-vu-l.webp__NW1" xmltv_id="Dave ja vu">Dave ja vu</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2612" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|drama-hd||drama-l.webp__NW1" xmltv_id="Drama">Drama</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1081" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|drama-1||drama-1-l.webp__NW1" xmltv_id="Drama+1">Drama+1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2302" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|eden||eden-l.webp__NW1" xmltv_id="Eden">Eden</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2307" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|eden-1||eden-1-l.webp__NW1" xmltv_id="Eden+1">Eden+1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2617" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|w||w-l.webp__NW1" xmltv_id="W">W</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2616" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|w-1||w-1-l.webp__NW1" xmltv_id="W+1">W+1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2305" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|yesterday-hd-1||yesterday-l.webp__NW1" xmltv_id="Yesterday">Yesterday</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2615" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|yesterday-1||yesterday-1-l.webp__NW1" xmltv_id="Yesterday +1">Yesterday +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4003" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|discovery-channel||discovery-channel-1-l.webp__NW1" xmltv_id="Discovery Channel">Discovery Channel</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2407" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|discovery-history||discovery-history-l.webp__NW1" xmltv_id="Discovery History">Discovery History</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2406" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|discovery-science||discovery-science-l.webp__NW1" xmltv_id="Discovery Science">Discovery Science</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2409" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|discovery-turbo||discovery-turbo-l.webp__NW1" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2404" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|discovery-channel-1||discovery-channel-1-1-l.webp__NW1" xmltv_id="Discovery +1">Discovery +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3760" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|discovery-history-1||discovery-history-1-l.webp__NW1" xmltv_id="Discovery History +1">Discovery History +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1351" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|discovery-science-1||discovery-science-1-l.webp__NW1" xmltv_id="Discovery Science +1">Discovery Science +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|5245" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|discovery-turbo-1||discovery-turbo-1-l.webp__NW1" xmltv_id="Discovery Turbo +1">Discovery Turbo +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|5452" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|id-1||id-1-l.webp__NW1" xmltv_id="ID +1">ID +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1352" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|animal-planet-1||animal-planet-1-l.webp__NW1" xmltv_id="Animal Planet +1">Animal Planet +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3620" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|crime-investigation-network-1||crime-investigation-network-1-l.webp__NW1" xmltv_id="Crime+Inv+1">Crime+Inv+1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3618" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|dmax-2||dmax-2-l.webp__NW1" xmltv_id="DMAX">DMAX</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1865" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|dmax-1||dmax-1-l.webp__NW1" xmltv_id="DMAX +1">DMAX +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1128" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|quest||quest-l.webp__NW1" xmltv_id="QUEST HD">QUEST HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|6761" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|quest||quest-l.webp__NW1" xmltv_id="QUEST">QUEST</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3621" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|quest-1-1||quest-1-1-l.webp__NW1" xmltv_id="QUEST +1">QUEST +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2411" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|quest-red||quest-red-l.webp__NW1" xmltv_id="Quest Red">Quest Red</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4547" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|quest-red-1||quest-red-1-l.webp__NW1" xmltv_id="Quest Red +1">Quest Red +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2413" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|investigation-discovery||investigation-discovery-l.webp__NW1" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2402" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|animal-planet-hd||animal-planet-hd-l.webp__NW1" xmltv_id="Animal Planet">Animal Planet</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1226" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|travelxp-europe||travelxp-europe-l.webp__NW1" xmltv_id="Travelxp">Travelxp</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2301" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|hgtv||hgtv-l.webp__NW1" xmltv_id="HGTV">HGTV</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2309" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|hgtv-1-uk||hgtv-1-uk-l.webp__NW1" xmltv_id="HGTV +1">HGTV +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3590" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|food-network||food-network-l.webp__NW1" xmltv_id="Food Network">Food Network</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3592" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|food-network-1||food-network-1-l.webp__NW1" xmltv_id="Food Network +1">Food Network +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2325" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|really-uktv||really-uktv-l.webp__NW1" xmltv_id="Really">Really</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3812" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|tlc-3||tlc-2-l.webp__NW1" xmltv_id="TLC">TLC</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1074" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|bloomberg-tv-hd-uk||bloomberg-tv-hd-l.webp__NW1" xmltv_id="Bloomberg HD">Bloomberg HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|5071" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|trt-world||trt-world-l.webp__NW1" xmltv_id="TRT World">TRT World</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3709" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|great-movies||sony-movies-l.webp__NW1" xmltv_id="GREAT! movies">GREAT! movies</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3771" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|great-movies-1||sony-movies-1-l.webp__NW1" xmltv_id="GREAT! movies +1">GREAT! movies +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3643" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|great-romance||sony-movies-classic-l.webp__NW1" xmltv_id="GREAT! romance">GREAT! romance</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3751" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|great-romance1||sony-movies-classic-1-l.webp__NW1" xmltv_id="GREAT! romance +1">GREAT! romance +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3708" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|great-action||sony-movies-action-1-l.webp__NW1" xmltv_id="GREAT! action">GREAT! action</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3721" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|great-action-1||sony-movies-action-1-1-l.webp__NW1" xmltv_id="GREAT! action +1">GREAT!action +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4266" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|great-tv||sony-channel-l.webp__NW1" xmltv_id="GREAT! tv">GREAT! tv</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|5338" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|great-tv-1||sony-channel-1-l.webp__NW1" xmltv_id="GREAT! tv +1">GREAT! tv +1</channel>
+  <channel site="[ENC][EX]tvguide.co.uk_0" site_id="great-movies-christmas" xmltv_id="GREAT! movies christmas">GREAT! movies christmas</channel>
+  <channel site="[ENC][EX]tvguide.co.uk_0" site_id="great-movies-christmas-plus-1" xmltv_id="GREAT! movies christmas +1">GREAT! movies christmas +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1065" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|blaze||blaze-l.webp__NW1" xmltv_id="BLAZE">BLAZE</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|2202" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|challenge-tv||challenge-tv-l.webp__NW1" xmltv_id="Challenge">Challenge</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|5500" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|pbs-america||pbs-l.webp__NW1" xmltv_id="PBS America">PBS America</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1207" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|court-tv||court-tv-l.webp__NW1" xmltv_id="Court TV">Court TV</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|5252" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|talking-pictures||talking-pictures-l.webp__NW1" xmltv_id="Talking Pictures">Talking Pictures</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1872" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|together||together-l.webp__NW1" xmltv_id="Together TV">Together TV</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1017" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1002100|##|thats-tv||that-s-tv-gold-l.webp__NW1" xmltv_id="That's TV">That's TV</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1311" xmltv_id="That's TV 2">That's TV 2</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4610" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|legend||cbs-justice-l.webp__NW1" xmltv_id="Legend">Legend</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3605" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1002100|##|legend-xtra||horror-channel-l.webp__NW1" xmltv_id="Legend Xtra">Legend Xtra</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4502" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|legend-xtra-1||horror-channel-1-l.webp__NW1" xmltv_id="Legend Xtra +1">Legend Xtra +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3352" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1002100|##|true-crime-3||cbs-reality-l.webp__NW1" xmltv_id="True Crime">True Crime</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3602" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1002100|##|true-crime-1-1||cbs-reality-1-l.webp__NW1" xmltv_id="True Crime +1">True Crime +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3617" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1002100|##|true-crime-xtra||cbs-drama-l.webp__NW1" xmltv_id="True Crime X">True Crime X</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4050" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|sky-news||sky-news-l.webp__NW1" xmltv_id="Sky News">Sky News</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1088" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|cnbc-hd||cnbc-hd-l.webp__NW1" xmltv_id="CNBC UK">CNBC UK</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1019" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|cnn-international-hd||cnn-international-hd-l.webp__NW1" xmltv_id="CNN">CNN</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4604" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|euronews-3||euronews-3-l.webp__NW1" xmltv_id="Euronews">Euronews</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1121" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|france-24-english-hd||france-24-english-hd-l.webp__NW1" xmltv_id="France 24 HD">France 24 HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1023" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|al-jazeera-english||al-jazeera-english-l.webp__NW1" xmltv_id="Al Jazeera HD">Al Jazeera HD</channel>
+  <channel site="[ENC]player.bt.com_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_758727_1811_HD||50822874" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-cinema-select||sky-cinema-select-l.webp__NW1" xmltv_id="Sky Cinema Select">Sky Cinema Select</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1409" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-cinema-premiere||sky-cinema-premiere-l.webp__NW1" xmltv_id="Sky Cinema Premiere">Sky Cinema Premiere</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4033" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-cinema-hits||sky-cinema-hits-l.webp__NW1" xmltv_id="Sky Cinema Hits">Sky Cinema Hits</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1199" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-cinema-animation||sky-cinema-animation-l.webp__NW1" xmltv_id="Sky Cinema Animation">Sky Cinema Animation</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1808" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-cinema-family||sky-cinema-family-l.webp__NW1" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1001" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-cinema-action||sky-cinema-action-l.webp__NW1" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4019" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-cinema-comedy||sky-cinema-comedy-l.webp__NW1" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4062" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-cinema-thriller||sky-cinema-thriller-l.webp__NW1" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4016" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-cinema-drama||sky-cinema-drama-l.webp__NW1" xmltv_id="Sky Cinema Drama">Sky Cinema Drama</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4017" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-cinema-sci-fi-horror||sky-cinema-sci-fi-horror-l.webp__NW1" xmltv_id="Sky Cinema SciFi">Sky Cinema SciFi</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4015" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-cinema-greats||sky-cinema-greats-l.webp__NW1" xmltv_id="Sky Cinema Greats">Sky Cinema Greats</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4002" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-sports-main-event||sky-sports-main-event-l.webp__NW1" xmltv_id="Sky Sports Main Event">Sky Sports Main Event</channel>
+  <channel site="[ENC]player.bt.com_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_397065_1333_SD||50487779" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-sports-action||sky-sports-action-l.webp__NW1" xmltv_id="Sky Sports Action">Sky Sports Action</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3835" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-sports-f1||sky-sports-f1-l.webp__NW1" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4097-5|##|3940" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-sports-arena||sky-sports-arena-l.webp__NW1" xmltv_id="Sky Sports +">Sky Sports +</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4081" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-sports-cricket||sky-sports-cricket-l.webp__NW1" xmltv_id="Sky Sports Cricket">Sky Sports Cricket</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3939" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000016|##|sky-sports-football||sky-sports-football-l.webp__NW1" xmltv_id="Sky Sports Football">Sky Sports Football</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4026" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-sports-golf||sky-sports-golf-l.webp__NW1" xmltv_id="Sky Sports Golf">Sky Sports Golf</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4091" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-sports-mix-hd||sky-sports-mix-hd-l.webp__NW1" xmltv_id="Sky Sports Mix">Sky Sports Mix</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4049" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-sports-news-hd-2||sky-sports-news-hd-2-l.webp__NW1" xmltv_id="Sky Sports News">Sky Sports News</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4022" xmltv_id="Sky Sports NFL">Sky Sports NFL</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4010" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-sports-premier-league||sky-sports-premier-league-l.webp__NW1" xmltv_id="Sky Sports Premiere League">Sky Sports Premiere League</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1354" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-sports-racing||sky-sports-racing-l.webp__NW1" xmltv_id="Sky Sports Racing">Sky Sports Racing</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4063" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|sky-arts||sky-arts-l.webp__NW1" xmltv_id="Sky Arts">Sky Arts</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4053" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-atlantic-hd||sky-atlantic-hd-l.webp__NW1" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1833" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-replay||sky-2-l.webp__NW1" xmltv_id="Sky Replay">Sky Replay</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1114" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1008138|##|sky-intro||sky-intro-l.webp__NW1" xmltv_id="Sky Intro">Sky Intro</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1402" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-max-hd||sky-max-hd-l.webp__NW1" xmltv_id="Sky Max">Sky Max</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1831" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-mix||pick-tv-l.webp__NW1" xmltv_id="Sky Mix">Sky Mix</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4061" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-showcase||sky-1-l.webp__NW1" xmltv_id="Sky One">Sky One</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4086" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-history-hd||sky-history-hd-l.webp__NW1" xmltv_id="History">History</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1195" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|sky-history-2-hd||sky-history-2-hd-l.webp__NW1" xmltv_id="Sky History 2">Sky History 2</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4031" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|national-geographic-hd||national-geographic-hd-l.webp__NW1" xmltv_id="National Geographic UK">National Geographic UK</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4025" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|national-geographic-wild-hd||national-geographic-wild-hd-l.webp__NW1" xmltv_id="National Geographic WILD UK">National Geographic WILD UK</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4056" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|comedy-central-hd||comedy-central-hd-l.webp__NW1" xmltv_id="Comedy Central UK">Comedy Central UK</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|3802" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|comedy-central-1||comedy-central-1-l.webp__NW1" xmltv_id="Comedy Central UK +1">Comedy Central UK +1</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|1813" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|comedy-central-extra||comedy-central-extra-l.webp__NW1" xmltv_id="Comedy Central Extra UK">Comedy Central Extra UK</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4088" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000197|##|crime-investigation-network-hd||crime-investigation-network-hd-l.webp__NW1" xmltv_id="Crime + Investigation UK">Crime + Investigation UK</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="6087D|##|177||240x135/amc.png" xmltv_id="AMC USA">AMC USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="6087D|##|614||240x135/hbo.png" xmltv_id="HBO USA">HBO USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="6087D|##|652||240x135/fx_logo.png" xmltv_id="FX USA">FX USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="6087|##|1952||240x135/fxx.png" xmltv_id="FXX USA">FXX USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="6087D|##|1030||240x135/paramount.png" xmltv_id="Paramount Network USA">Paramount Network USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="6087D|##|647||240x135/comedycentral.png" xmltv_id="Comedy Central USA">Comedy Central USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="36212D|##|657||240x135/ngeog-copy.png" xmltv_id="National Geographic USA">National Geographic USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="36212D|##|7537||240x135/natgeowild.png" xmltv_id="National Geographic Wild USA">National Geographic Wild USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="36212D|##|621||240x135/history.png" xmltv_id="History Channel USA">History Channel USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="36212D|##|649||240x135/discovery-19.png" xmltv_id="Discovery Channel USA">Discovery Channel USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="36212D|##|1960||240x135/science16.png" xmltv_id="Discovery Science USA">Discovery Science USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="36212D|##|2090||240x135/investigation_discovery.png" xmltv_id="Investigation Discovery USA">Investigation Discovery USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="36212D|##|645||240x135/animalplanet-19.png" xmltv_id="Animal Planet USA">Animal Planet USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="2381D|##|661||240x135/cartoonnetwork.png" xmltv_id="Cartoon Network USA">Cartoon Network USA</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="2381D|##|655||240x135/msnbc.png" xmltv_id="MSNBC USA">MSNBC USA</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-5|##|4505" cyclone_site="[ENC][EX]tvguide.co.uk_0" cyclone_id="clubland-tv" xmltv_id="Clubland TV">Clubland TV</channel>
+  <channel site="[ENC][EX]tvpassport.com_0" site_id="36212D|##|640||240x135/usa.png" xmltv_id="USA Network">USA Network</channel>
+  <channel site="[ENC][EX]radiotimes.com_0" site_id="htf8||d45290f3-96f2-53d3-b83f-bd875c745f83.png" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000193|##|tnt-sports-1||tnt-sports-1-l.webp__NW1" xmltv_id="TNT Sports 1">TNT Sports 1</channel>
+  <channel site="[ENC][EX]radiotimes.com_0" site_id="htgb||1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000193|##|tnt-sports-2-1||tnt-sports-2-l.webp__NW1" xmltv_id="TNT Sports 2">TNT Sports 2</channel>
+  <channel site="[ENC][EX]radiotimes.com_0" site_id="htgd||04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000193|##|tnt-sports-3-1||tnt-sports-3-l.webp__NW1" xmltv_id="TNT Sports 3">TNT Sports 3</channel>
+  <channel site="[ENC][EX]radiotimes.com_0" site_id="htgz||e98a3304-0e26-5eed-bc55-071e69a15bf8.png" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000193|##|tnt-sports-4-1||tnt-sports-4-l.webp__NW1" xmltv_id="TNT Sports 4">TNT Sports 4</channel>
+  <channel site="[ENC][EX]radiotimes.com_0" site_id="htgk||f25e3499-4757-57ac-90e7-cba823730841.png" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000193|##|tnt-sports-5-1||tnt-sports-5-l.webp__NW1" xmltv_id="TNT Sports 5">TNT Sports 5</channel>
+  <channel site="[ENC][EX]radiotimes.com_0" site_id="htgn||7abae184-fb1b-503d-ab61-8224033369d5.png" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000193|##|tnt-sports-6-1||tnt-sports-6-l.webp__NW1" xmltv_id="TNT Sports 6">TNT Sports 6</channel>
+  <channel site="[ENC][EX]radiotimes.com_0" site_id="htgq||4cf81897-6401-5a6c-9be7-9263e998624b.png" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000193|##|tnt-sports-7-1||tnt-sports-7-l.webp__NW1" xmltv_id="TNT Sports 7">TNT Sports 7</channel>
+  <channel site="[ENC][EX]radiotimes.com_0" site_id="htgs||382831b2-cb0a-5219-a63f-a83e7dfbc685.png" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000193|##|tnt-sports-8-1||tnt-sports-8-l.webp__NW1" xmltv_id="TNT Sports 8">TNT Sports 8</channel>
+  <channel site="[ENC][EX]radiotimes.com_0" site_id="htgv||e6316497-ea1a-5653-b78a-3debe2047a6f.png" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000193|##|tnt-sports-9-1||tnt-sports-9-l.webp__NW1" xmltv_id="TNT Sports 9">TNT Sports 9</channel>
+  <channel site="[ENC][EX]radiotimes.com_0" site_id="htgx||b029d431-7c1f-51f5-8ba1-44c4b4cbf729.png" cyclone_site="[ENC][EX]tv24.co.uk_0" cyclone_id="1000193|##|tnt-sports-10-1||tnt-sports-10-l.webp__NW1" xmltv_id="TNT Sports 10">TNT Sports 10</channel>
+  <channel site="[ENC][EX]tv24.co.uk_0" site_id="1002100|##|stv-1||stv-l.webp__NW1" cyclone_site="[ENC][EX]radiotimes.com_0" cyclone_id="htrd||59da93c5-a1ea-5432-be42-47a0b362f234.png" xmltv_id="STV">STV</channel>
+  <channel site="[ENC][EX]tv24.co.uk_0" site_id="1002100|##|stv-1-1||stv-1-1-l.webp__NW1" cyclone_site="[ENC][EX]radiotimes.com_0" cyclone_id="htrc||965b0191-16bb-52ea-99db-9f83d279dfc8.png" xmltv_id="STV +1">STV +1</channel>
+</configuration>
