@@ -1,0 +1,24 @@
+1.0.14
+- Exclude usenet/NZB files and rebuildable addon_data caches from backups
+- Keep settings, tokens, watched state and library files
+
+1.0.13
+- Change language to English
+
+1.0.12
+- fix missing temp folder error
+- exclude video files from backup
+
+1.0.11
+- Fix utf-8 codec can't decode byte 0x95 in position 10
+
+1.0.10
+- color adjustment
+
+1.0.9
+- fix backup saving on another device via samba
+
+1.0.8
+- fix restore on Cube
+
+...
