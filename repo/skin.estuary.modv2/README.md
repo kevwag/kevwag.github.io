@@ -1,0 +1,101 @@
+# Skin Estuary MOD V2 for KODI 22 Piers KN Edition #
+
+**Some screenshots You'll find at the end of this Readme**
+
+## Installation Notes ##
+
+It's strongly recommended to install the skin via the "Kodinerds Repo", as this is the only way to guarantee that additional 
+required modules (e.g. the PVR Artwork Module) are also installed. Another advantage is that you get automatic updates when 
+you install an addon from a repository and not from ZIP.
+
+To install the Kodinerds repository visit the page "https://repo.kodinerds.net", download the repository zip (red button) 
+and install it. After that you can install the skin directly from the repository under "Look & Feel", "Skins".
+
+## Installation from Git ##
+
+If you want to install the latest version from Git (before this has added to Kodinerds Repo) just download the Addon from here 
+https://github.com/b-jesch/skin.estuary.modv2/tree/Omega (green Code button), **rename the root folder inside the ZIP** 
+from ```skin.estuary.modv2-Omega``` to ```skin.estuary.modv2``` and choose 'install from zip' inside Kodi. **Renaming 
+the root folder inside the ZIP needs unpacking/packing the zip in some cases.**
+
+### File name flagging ###
+If you want to use special flags like HDR or Dolby Vision or special 3D formats you have to name your files with proper tags, 
+preferably before the file extension: 
+
+| 3D with <br> stereoscopic detection |           MVC codec            |          Side by Side          |         Top and Bottom         |
+|:-----------------------------------:|:------------------------------:|:------------------------------:|:------------------------------:|
+|     ![](resources/flags/3d.png)     | ![](resources/flags/3dmvc.png) | ![](resources/flags/3dsbs.png) | ![](resources/flags/3dtab.png) |
+|             no tagging              |             3d.mvc             |             3d.sbs             |             3d.tab             |
+
+
+The Video resolution type recognition by filename for HDR(+)/HLG/Dolby Vision has been removed.
+
+### Animated Artwork ###
+
+As the setup of animated artwork was done by skinhelper addon (which was removed from skin) the addon "Animated Artwork Module" has now taken 
+the management of those artwork. Animated artwork has some limitations (see Kodi Wiki: https://kodi.wiki/view/Artwork_types#Animated_Artwork). 
+To get this feature work properly, you have to assign a folder within the addon settings, which contains all the artwork. This 
+folder **must** be a folder of your local filesystem. You can use network share, but this **must** be mounted to a local mountpoint.
+Put all your artwork into this folder. Subfolders are allowed (without nesting).  
+
+If you navigate in your movie library, you'll have a new entry now to (re)assign animated Artwork in the context menu. The skin
+supports animated poster only.
+
+![](resources/setup_ap.png)
+
+### 22.0+piers ###
+- .4
+  * Android Distributionlogo implemented
+  * Default- / Distributionlogo toggle switch implemented
+
+
+- .3
+  * Video version view fixed and info label extended (list/extended list/fanart view).
+
+
+- .2
+  * Assignment of channel logos and EPG preview images in the EPG guide fixed
+  * color.xbt updated
+
+
+- .1
+  * disabling theme animations toggle added
+  * fix visibility of media flags in player OSD
+  * smaller fixes in DialogProcessInfo, SettingsSystemInfo
+  * Picture widget updated
+  * Video version implemented in listview, extended listview,  fanart view
+
+
+- .0 
+  * start development for Kodi 22 (Piers)
+  * code cleanup pt.1/2/3/4
+  * Power menu updated
+  * Mediaflags to piers updated
+  * Romanian language strings added
+  * code cleanup pt.5/6/7/8
+  * new infolabels in PPI implemented/updated
+  * colored flags updated (thanks to frodo19)
+  * start upgrading to skinshortcus V3
+  * implementing new labels (Piers)
+  * inverting some standard settings
+  * skin reset added, popup warning dialog to skin full reset added
+  * smaller changes in DialogProcessInfo, SettingsSystemInfo
+
+Previous changes see README.md of Omega Tree
+ 
+### Screenshots ###
+
+![PVR Info](resources/screenshots/screenshot_1.png)
+![Embuary Info](resources/screenshots/screenshot_2.png)
+![Video OSD](resources/screenshots/screenshot_6.png)
+![Embuary localized Infos](resources/screenshots/screenshot_7.png)
+![New channel View](resources/screenshots/screenshot_8.png)
+![Improved OSD](resources/screenshots/screenshot_9.png)
+![simplified OSD](resources/screenshots/screenshot_10.png)
+![colored flags](resources/screenshots/screenshot_11.png)
+![improved nextup info](resources/screenshots/screenshot_12.png)
+![improved PVR event icons](resources/screenshots/screenshot_13.png)
+![various color...](resources/screenshots/screenshot_14.png)
+![...and font schemes](resources/screenshots/screenshot_15.png)
+![Audio DSP](resources/screenshots/screenshot_16.png)
+![Flix Landscape](resources/screenshots/screenshot_17.png)
