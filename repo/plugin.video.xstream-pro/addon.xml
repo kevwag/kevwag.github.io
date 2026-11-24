@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.xstream-pro" name="Xstream Pro" version="2.0.4" provider-name="PesicP">
+    <requires>
+        <import addon="xbmc.python" version="3.0.1"/>
+        <import addon="script.module.requests" version="2.22.0"/>
+        <import addon="pvr.iptvsimple" version="21.4.0"/>
+        <import addon="service.upnext" version="1.1.0" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="resources/lib/addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+        <summary lang="en_GB">Xstream Pro - Organised M3U &amp; Xtream player</summary>
+        <description lang="en_GB">A clean M3U &amp; Xtream player with proper sorting: PVR, Live TV, Movies, Series and Replay, TMDB, Trakt, EPG support.</description>
+        <platform>all</platform>
+        <license>CC BY-NC 4.0</license>
+        <source>https://github.com/Pesicp/XStreamPro</source>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>resources/background/background.png</fanart>
+        </assets>
+    </extension>
+</addon>
